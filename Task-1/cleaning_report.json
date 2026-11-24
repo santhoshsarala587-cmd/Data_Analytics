@@ -1,0 +1,87 @@
+{
+  "before": {
+    "rows": 220,
+    "columns": 9,
+    "exact_duplicate_rows": 15,
+    "missing_per_column": {
+      "Employee ID": 0,
+      "Full Name": 0,
+      "Email": 14,
+      "Phone": 16,
+      "City": 12,
+      "Department": 0,
+      "Joining Date": 8,
+      "Salary": 15,
+      "Age": 12
+    },
+    "dtypes": {
+      "Employee ID": "object",
+      "Full Name": "object",
+      "Email": "object",
+      "Phone": "object",
+      "City": "object",
+      "Department": "object",
+      "Joining Date": "object",
+      "Salary": "object",
+      "Age": "object"
+    }
+  },
+  "cleaning_log": {
+    "invalid_emails_set_to_null": 4,
+    "out_of_range_ages_set_to_null": 3,
+    "duplicates_removed": 20,
+    "missing_before_imputation": {
+      "email": 15,
+      "phone": 16,
+      "city": 10,
+      "joining_date": 8,
+      "salary": 14,
+      "age": 15
+    },
+    "imputation_strategy": {
+      "age": "median",
+      "salary": "median per department (fallback overall median)",
+      "city/department": "'Unknown'",
+      "email/phone/joining_date": "left null (not guessable)"
+    }
+  },
+  "validation": {
+    "no_duplicate_rows": true,
+    "employee_id_unique": true,
+    "no_null_employee_id": true,
+    "dates_are_datetime": true,
+    "age_in_range_18_70": true,
+    "salary_positive": true,
+    "phone_is_10_digits": true,
+    "emails_valid": true,
+    "no_leading_trailing_spaces": true,
+    "no_missing_in_age_salary_city_dept": true
+  },
+  "after": {
+    "rows": 200,
+    "columns": 9,
+    "exact_duplicate_rows": 0,
+    "missing_per_column": {
+      "employee_id": 0,
+      "full_name": 0,
+      "email": 15,
+      "phone": 16,
+      "city": 10,
+      "department": 0,
+      "joining_date": 8,
+      "salary": 0,
+      "age": 0
+    },
+    "dtypes": {
+      "employee_id": "object",
+      "full_name": "string",
+      "email": "string",
+      "phone": "string",
+      "city": "string",
+      "department": "string",
+      "joining_date": "datetime64[ns]",
+      "salary": "Float64",
+      "age": "Int64"
+    }
+  }
+}

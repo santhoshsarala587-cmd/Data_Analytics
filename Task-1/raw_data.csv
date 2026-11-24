@@ -1,0 +1,221 @@
+Employee ID,Full Name,Email,Phone,City,Department,Joining Date,Salary,Age
+E1130,RAJESH  KUMAR,rajesh..kumar130@example.com,+91 8818661839,Madurai,IT,01/12/2023,"Rs. 40,048",52
+E1064,Meena Iyer,meena.iyer64@example.com,9517209191,coimbatore ,IT,16/08/2024,79006,53
+E1154,karthik S,karthik.s154@example.com,9406176625,Hyderabad,HR,11/03/2024,"Rs. 87,851",N/A
+E1086,lakshmi N,lakshmi.n86@example.com,+91 9879323565,Coimbatore,sales,"Feb 05, 2022",24587,41
+E1070,santhosh m,santhosh.m70@example.com,+91 7922605216,Madurai,HR,2023-03-25,"64,363",59
+E1135,Arun Kumar,arun.kumar135@example.com,+91 8549378207,Salem,HR,-,"Rs. 52,284",29
+E1034,Meena Iyer,meena.iyer34@example.com,7846834488,Salem,IT,05-10-2023,27117,23
+E1095,Arun Kumar,arun.kumar95@example.com,+91 9207687231,Bengaluru,it ,11-05-2024,"71,700",33
+E1025,lakshmi N,lakshmi.n25@example.com,+91 9082787305,hyd,Finance,2023-05-22,"71,728",26
+E1159,lakshmi N,lakshmi.n159@example.com,8695233730,CHENNAI,IT,2024-05-28,"87,450",54
+E1038,Anita Das,anita.das38@example.com,+91 9846573778,Madurai,IT,24-10-2022,79399,52
+E1189,Vikram Singh,vikram.singh189@example.com,+91 9968536766,Hyderabad,Sales,05-10-2023,"66,756",25
+E1164,santhosh m,santhosh.m164@example.com,+91 8032423233,Madurai,sales,08-07-2022,49043,43
+E1108,Arun Kumar,arun.kumar108@example.com,7734241486,hyd,Sales,2023-04-27,37670,50
+E1105,karthik S,karthik.s105@example.com,8714196270,bangalore,FINANCE,"Jan 30, 2023","Rs. 24,737",35
+E1111,priya sharma,priya.sharma111@example.com,85720-88281,CHENNAI,Finance,nan,"27,769",22
+E1139, Divya R ,divya.r139@example.com,nan,bangalore,IT,03/04/2024,"Rs. 23,041",36
+E1047, Divya R ,divya.r47@example.com,8546663370,coimbatore ,hr,04-04-2023,23091,-
+E1040,Arun Kumar,-,9807819466,bangalore,hr,04-08-2023,"85,196",24
+E1198,RAJESH  KUMAR,rajesh..kumar198@example.com,7635262452,CHENNAI,IT,09/04/2023,28299,21
+E1128,santhosh m,santhosh.m128@example.com,+91 7529384833,hyd,IT,"Dec 29, 2022","64,254",34
+E1173,priya sharma,priya.sharma173@example.com,+91 7445782126,bangalore,it ,"May 29, 2022","55,521",54
+E1187,karthik S,karthik.s187@example.com,9601516828,Bengaluru,hr,21-09-2023,"55,299",34
+E1143,lakshmi N,lakshmi.n143@example.com,N/A,Madurai,it ,02-09-2024,40235,43
+E1184,Arun Kumar,arun.kumar184@example.com,93466-47510,coimbatore ,Finance,2022-05-30,51376,30
+E1175,Anita Das,anita.das175@example.com,+91 7370956849,coimbatore ,it ,2022-11-22,"50,433",29
+E1003,karthik S,karthik.s3@example.com,9279698322,Madurai,Sales,"Jun 12, 2024","67,813",50
+E1083,Meena Iyer,meena.iyer83@example.com,+91 8960317625,coimbatore ,sales,04/08/2022,81202,42
+E1010,karthik S,karthik.s10@example.com,+91 8219160583,Hyderabad,it ,"Sep 23, 2024","31,289",40
+E1014,santhosh m,nan,9275558588,Madurai,HR,"Jun 26, 2022","Rs. 60,886",250
+E1115,Meena Iyer,meena.iyer115@example.com,98567-01003,coimbatore ,sales,29/01/2023,58809,30
+E1029, Divya R ,divya.r29@example.com,97996-16859,Bengaluru,HR,21/08/2022,"Rs. 46,192",25
+E1012,priya sharma,priya.sharma12@example.com,9885692992,Bengaluru,hr,09/12/2022,"38,446",31
+E1040,Arun Kumar,-,9807819466,bangalore,hr,04-08-2023,"85,196",24
+E1058,Meena Iyer,meena.iyer58@example.com,+91 8943845445,CHENNAI,Finance,04/12/2023,"Rs. 33,788",45
+E1006,RAJESH  KUMAR,rajesh..kumar6@example.com,70220-27758,Hyderabad,it ,16/10/2022,"Rs. 39,398",-5
+E1132,priya sharma,priya.sharma132@example.com,+91 7346034233,coimbatore ,FINANCE,2023-08-28,"Rs. 49,596",55
+E1151,Arun Kumar,arun.kumar151@example.com,79718-10945,Coimbatore,IT,19-03-2023,"31,923",59
+E1101,Arun Kumar,arun.kumar101@example.com,9668969263,coimbatore ,HR,28-07-2024,38576,56
+E1023, DIVYA R  ,divya.r23@example.com,+91 9810439450,Hyderabad,sales,17/01/2024,61956,28
+E1074,santhosh m,santhosh.m74@example.com,+91 7975781166,CHENNAI,IT,"May 09, 2024","Rs. 38,626",53
+E1046,priya sharma,priya.sharma46@example.com,,Coimbatore,Sales,30/09/2023,70580,58
+E1102,lakshmi N,lakshmi.n102@example.com,80279-02663,Hyderabad,it ,08-05-2024,"Rs. 46,533",24
+E1067,karthik S,karthik.s67@example.com,88414-25444,,it ,"Jul 11, 2023","85,197",
+E1004,lakshmi N,lakshmi.n4@example.com,7977476073,Hyderabad,sales,02/01/2023,,29
+E1061,santhosh m,santhosh.m61@example.com,nan,Madurai,Finance,"Dec 01, 2022","46,058",26
+E1088,priya sharma,priya.sharma88@example.com,73362-36713,coimbatore ,Sales,2023-02-21,,33
+E1102,lakshmi N,lakshmi.n102@example.com,80279-02663,Hyderabad,it ,08-05-2024,"Rs. 46,533",24
+E1196,santhosh m,santhosh.m196@example.com,85793-57254,Bengaluru,sales,15-02-2023,"Rs. 48,829",30
+E1041,Anita Das,anita.das41@example.com,+91 8770227684,bangalore,Sales,"Sep 11, 2022","Rs. 52,618",49
+E1163,KARTHIK S ,@x.com,8856144333,Madurai,FINANCE,"Sep 19, 2023",85204,43
+E1168,RAJESH  KUMAR,rajesh..kumar168@example.com,+91 7931962554,Salem,sales,2024-08-26,"28,924",42
+E1015,Anita Das,anita.das15@example.com,+91 8247422205,Bengaluru,sales,"Mar 26, 2022","61,135",27
+E1073,Anita Das,anita.das73@example.com,+91 9911062720,CHENNAI,Sales,"Apr 01, 2024","54,278",59
+E1051,Vikram Singh,vikram.singh51@example.com,+91 9094362350,coimbatore ,it ,nan,"Rs. 72,163",24
+E1140,Anita Das,anita.das140@example.com,+91 8762635507,bangalore,IT,30-06-2023,N/A,37
+E1133,RAJESH  KUMAR,rajesh..kumar133@example.com,+91 9942463435,CHENNAI,hr,21-07-2024,35652,48
+E1109,Vikram Singh,vikram.singh109@example.com,99537-88550,Chennai,FINANCE,"Oct 29, 2022","29,645",32
+E1023, Divya R ,divya.r23@example.com,+91 9810439450,Hyderabad,sales,17/01/2024,61956,28
+E1118,Anita Das,anita.das118@example.com,8868126233,-,Finance,2022-02-27,"Rs. 84,664",32
+E1031,Meena Iyer,meena.iyer31@example.com,79561-00753,bangalore,sales,2023-04-21,"Rs. 60,419",25
+E1082,Meena Iyer,meena.iyer82@example.com,-,-,HR,22-01-2024,"57,067",49
+E1122,RAJESH  KUMAR,rajesh..kumar122@example.com,8358602757,null,HR,20/01/2024,"45,643",49
+E1137,Anita Das,anita.das137@example.com,+91 7502172707,bangalore,FINANCE,24-08-2022,26726,41
+E1018,Meena Iyer,meena.iyer18@example.com,8316734379,,Sales,30-06-2023,"Rs. 29,817",33
+E1177,lakshmi N,nan,85377-39741,Madurai,FINANCE,2022-10-04,null,49
+E1017,Arun Kumar,arun.kumar17@example.com,84599-04231,coimbatore ,IT,"Feb 22, 2024","38,688",999
+E1030,lakshmi N,null,N/A,Salem,it ,14-10-2023,"27,369",23
+E1077,Arun Kumar,arun.kumar77@example.com,96869-38427,CHENNAI,sales,15/06/2023,"44,362",54
+E1166,KARTHIK S ,N/A,8635352638,Coimbatore,HR,16-08-2024,73324,32
+E1180,karthik S,karthik.s180@example.com,9881760885,hyd,HR,"Feb 18, 2024","Rs. 71,560",41
+E1089,santhosh m,santhosh.m89@example.com,+91 8653474826,CHENNAI,HR,"Feb 15, 2023","53,590",47
+E1084,Anita Das,anita.das84@example.com,83151-71924,Salem,IT,"Sep 08, 2022","67,011",31
+E1072,Meena Iyer,meena.iyer72@example.com,9427657335,Salem,it ,25/04/2022,87887,32
+E1042,lakshmi N,lakshmi.n42@example.com,95351-00764,coimbatore ,it ,2024-02-03,-,56
+E1153,RAJESH  KUMAR,rajesh..kumar153@example.com,73098-77502,Coimbatore,IT,"Nov 18, 2022","Rs. 66,670",37
+E1071,karthik S,karthik.s71@example.com,9954299796,Hyderabad,HR,13-03-2024,"52,251",23
+E1126,RAJESH  KUMAR,rajesh..kumar126@example.com,86262-00946,Hyderabad,FINANCE,"Oct 11, 2022",62704,45
+E1013,Anita Das,anita.das13@example.com,+91 8348084505,N/A,it ,2023-12-18,"Rs. 41,416",42
+E1121,lakshmi N,lakshmi.n121@example.com,72720-82181,hyd,IT,2023-09-06,,50
+E1160,priya sharma,priya.sharma160@example.com,8782818081,Chennai,Sales,2024-05-01,"Rs. 76,767",30
+E1005,karthik S,karthik.s5@example.com,+91 9820918286,Chennai,Finance,19-07-2023,"Rs. 76,333",null
+E1197,Arun Kumar,arun.kumar197@example.com,72609-19413,Coimbatore,hr,12/07/2024,29170,36
+E1158,Arun Kumar,arun.kumar158@example.com,+91 8006720364,Madurai,hr,2022-03-25,null,55
+E1199,Meena Iyer,meena.iyer199@example.com,76740-11937,Bengaluru,hr,01/08/2024,"31,335",45
+E1134,Meena Iyer,meena.iyer134@example.com,-,bangalore,HR,"Apr 12, 2024","20,087",21
+E1185, Divya R ,divya.r185@example.com,7529066728,Chennai,it ,2022-12-06,83692,28
+E1192,priya sharma,priya.sharma192@example.com,+91 9219611053,Salem,FINANCE,02-11-2023,"67,439",52
+E1078,RAJESH  KUMAR,rajesh..kumar78@example.com,+91 9128920780,CHENNAI,IT,21-06-2024,80643,-
+E1024, Divya R ,divya.r24@example.com,+91 9915479276,CHENNAI,HR,nan,21257,32
+E1100,Anita Das,anita.das100@example.com,null,Salem,Sales,2022-09-25,"Rs. 45,090",nan
+E1171,Meena Iyer,meena.iyer171@example.com,83382-53464,Bengaluru,Sales,2022-03-19,42065,32
+E1008,Meena Iyer,meena.iyer8@example.com,,Coimbatore,HR,20/07/2023,"Rs. 35,020",59
+E1053,Arun Kumar,arun.kumar53@example.com,+91 7127051654,Chennai,Sales,24-02-2022,"Rs. 46,346",38
+E1027,santhosh m,santhosh.m27@example.com,89019-92210,coimbatore ,it ,nan,"Rs. 87,636",28
+E1125,Anita Das,anita.das125@example.com,92537-41130,Bengaluru,sales,2022-06-12,80981,31
+E1193,RAJESH  KUMAR,rajesh..kumar193@example.com,nan,,FINANCE,25/02/2023,"74,292",44
+E1103,karthik S,karthik.s103@example.com,8601827468,Madurai,Sales,12-01-2024,"80,590",
+E1032,Arun Kumar,arun.kumar32@example.com,75844-24412,Coimbatore,hr,"Jun 25, 2023","Rs. 67,650",53
+E1043,RAJESH  KUMAR,rajesh..kumar43@example.com,96950-42854,,HR,14-02-2024,45493,27
+E1186, Divya R ,divya.r186@example.com,8316465104,Salem,sales,"Sep 30, 2022","Rs. 24,132",40
+E1057,RAJESH  KUMAR,rajesh..kumar57@example.com,9761371289,Madurai,sales,2024-04-20,"Rs. 60,072",43
+E1181,Meena Iyer,meena.iyer181@example.com,88804-83827,CHENNAI,FINANCE,"Aug 04, 2022",39081,58
+E1092,RAJESH  KUMAR,rajesh..kumar92@example.com,87705-04129,Madurai,Sales,21/04/2023,"Rs. 57,327",27
+E1022,Vikram Singh,vikram.singh22@example.com,-,Hyderabad,HR,"Apr 25, 2024",48715,49
+E1198,RAJESH  KUMAR,rajesh..kumar198@example.com,7635262452,CHENNAI,IT,09/04/2023,28299,21
+E1182,priya sharma,priya.sharma182@example.com,7593000946,coimbatore ,FINANCE,"Mar 13, 2024",N/A,27
+E1174,karthik S,karthik.s174@example.com,+91 9846529319,Madurai,sales,10/09/2023,"86,198",35
+E1156,Meena Iyer,meena.iyer156@example.com,77722-52495,Salem,FINANCE,2024-02-20,"66,826",23
+E1087, Divya R ,divya.r87@example.com,89066-85351,Bengaluru,hr,2024-03-01,"Rs. 41,145",29
+E1145,Anita Das,anita.das145@example.com,+91 8045582564,coimbatore ,IT,2022-09-16,"Rs. 51,532",47
+E1063,lakshmi N,lakshmi.n63@example.com,8000885105,Madurai,sales,"Jan 23, 2023",,59
+E1183, Divya R ,divya.r183@example.com,null,CHENNAI,HR,22/01/2024,"58,516",48
+E1161,karthik S,karthik.s161@example.com,9188250770,Salem,HR,2023-07-19,"28,287",51
+E1146,Arun Kumar,no@domain,87944-34491,Bengaluru,Finance,2024-04-24,"Rs. 82,318",53
+E1114,Anita Das,anita.das114@example.com,98200-46335,Coimbatore,Finance,15/06/2023,"Rs. 39,755",41
+E1045,santhosh m,nan,+91 7419784347,Hyderabad,Finance,05-09-2023,"38,967",
+E1035,lakshmi N,lakshmi.n35@example.com,+91 9530724853,hyd,IT,09-02-2023,"63,139",49
+E1065,Arun Kumar,arun.kumar65@example.com,+91 8301337081,Chennai,sales,2024-01-26,"Rs. 85,850",30
+E1050,Vikram Singh,vikram.singh50@example.com,+91 8817775531,hyd,sales,2022-02-21,"87,773",25
+E1136, Divya R ,divya.r136@example.com,80600-38766,Bengaluru,Finance,21-02-2022,"Rs. 85,553",33
+E1098,RAJESH  KUMAR,rajesh..kumar98@example.com,8341544669,Salem,Finance,2022-07-02,21271,30
+E1120,santhosh m,santhosh.m120@example.com,97655-11159,Hyderabad,hr,25/09/2023,66196,39
+E1016,lakshmi N,lakshmi.n16@example.com,8743183417,bangalore,HR,2022-10-27,"Rs. 87,099",39
+E1019,karthik S,karthik.s19@example.com,91809-83727,Chennai,Sales,"Apr 19, 2022",84120,22
+E1178,karthik S,karthik.s178@example.com,8793649125,Madurai,FINANCE,30/09/2023,"24,223",53
+E1170,santhosh m,santhosh.m170@example.com,83699-11572,Chennai,HR,29/08/2024,33641,49
+E1044,priya sharma,priya.sharma44@example.com,8665039499,coimbatore ,it ,2024-08-19,"Rs. 86,434",51
+E1068,Meena Iyer,meena.iyer68@example.com,9556046549,Salem,HR,"Apr 28, 2023","Rs. 79,519",43
+E1076, Divya R ,divya.r76@example.com,9723452283,CHENNAI,Finance,10/01/2024,20315,47
+E1112,Arun Kumar,arun.kumar112@example.com,+91 7620440582,CHENNAI,FINANCE,"Feb 12, 2024",-,54
+E1011,priya sharma,priya.sharma11@example.com,8486877611,CHENNAI,HR,"Jul 27, 2024","45,326",24
+E1055,RAJESH  KUMAR,rajesh..kumar55@example.com,,Madurai,IT,"Dec 01, 2023",null,25
+E1011,priya sharma,priya.sharma11@example.com,8486877611,CHENNAI,HR,"Jul 27, 2024","45,326",24
+E1009,Arun Kumar,arun.kumar9@example.com,+91 7701818457,Salem,HR,03/05/2024,"Rs. 28,839",51
+E1029, Divya R ,divya.r29@example.com,97996-16859,Bengaluru,HR,21/08/2022,"Rs. 46,192",25
+E1039,Meena Iyer,meena.iyer39@example.com,90843-14696,Salem,sales,08-07-2023,"Rs. 64,535",49
+E1188,Anita Das,anita.das188@example.com,9131470212,Madurai,hr,06/04/2023,"59,771",42
+E1056,priya sharma,priya.sharma56@example.com,7834226636,Hyderabad,IT,31/08/2024,64424,36
+E1162,Vikram Singh,vikram.singh162@example.com,+91 7853191403,Salem,IT,"Aug 10, 2022","Rs. 50,352",27
+E1089,santhosh m,santhosh.m89@example.com,+91 8653474826,CHENNAI,HR,"Feb 15, 2023","53,590",47
+E1091, Divya R ,divya.r91@example.com,+91 7414616114,,sales,17-02-2022,"27,744",45
+E1059, Divya R ,divya.r59@example.com,+91 9885313893,Salem,Finance,"Jun 11, 2023","38,813",30
+E1190,priya sharma,priya.sharma190@example.com,+91 7943043827,hyd,IT,"Jun 08, 2024","44,124",42
+E1036,Vikram Singh,vikram.singh36@example.com,99009-16430,Madurai,Finance,15/05/2022,68031,23
+E1195,RAJESH  KUMAR,rajesh..kumar195@example.com,8556743926,Hyderabad,sales,28/07/2022,36560,43
+E1052,santhosh m,santhosh.m52@example.com,+91 7465638976,CHENNAI,Sales,"May 01, 2024","Rs. 88,614",40
+E1163,karthik S,@x.com,8856144333,Madurai,FINANCE,"Sep 19, 2023",85204,43
+E1048,Arun Kumar,nan,+91 7319258595,Bengaluru,IT,2024-04-16,67650,30
+E1141,karthik S,karthik.s141@example.com,+91 7625138023,Hyderabad,Sales,08/08/2022,32340,53
+E1096,Vikram Singh,vikram.singh96@example.com,+91 7443819876,Bengaluru,it ,2022-05-05,32106,59
+E1075,Arun Kumar,-,98594-46872,Bengaluru,Finance,"Aug 27, 2022","20,568",49
+E1165,lakshmi N,lakshmi.n165@example.com,+91 9614227258,Madurai,HR,2023-10-14,"45,854",39
+E1155,karthik S,karthik.s155@example.com,-,Chennai,sales,"Oct 19, 2022","47,236",nan
+E1080,lakshmi N,lakshmi.n80@example.com,9204097718,Salem,sales,06/07/2022,"Rs. 29,405",-
+E1144,Meena Iyer,meena.iyer144@example.com,+91 9485640773,Salem,IT,16/01/2024,54033,37
+E1099,Vikram Singh,vikram.singh99@example.com,7760993518,bangalore,hr,27-04-2024,"70,803",43
+E1124,santhosh m,santhosh.m124@example.com,7275171036,Hyderabad,it ,10/04/2023,nan,28
+E1168,RAJESH  KUMAR,rajesh..kumar168@example.com,+91 7931962554,Salem,sales,2024-08-26,"28,924",42
+E1117,priya sharma,priya.sharma117@example.com,+91 9450728832,hyd,FINANCE,"Sep 15, 2024","23,507",34
+E1085,santhosh m,santhosh.m85@example.com,7513589834,Bengaluru,HR,27-02-2024,"Rs. 55,891",26
+E1001,Meena Iyer,meena.iyer1@example.com,+91 7384340897,Salem,Finance,"Feb 26, 2024","Rs. 77,593",38
+E1113,priya sharma,priya.sharma113@example.com,83495-76918,Hyderabad,sales,10-09-2023,-,41
+E1194,Meena Iyer,meena.iyer194@example.com,+91 8134954041,Bengaluru,Sales,"Feb 11, 2024","89,585",22
+E1116,Arun Kumar,bad.email,+91 7356859931,Madurai,FINANCE,24/05/2024,57004,53
+E1018,Meena Iyer,meena.iyer18@example.com,8316734379,,Sales,30-06-2023,"Rs. 29,817",33
+E1110,Meena Iyer,meena.iyer110@example.com,94494-90871,Bengaluru,hr,"Aug 11, 2022",56469,38
+E1054,Anita Das,anita.das54@example.com,8909225025,coimbatore ,sales,28-06-2023,"Rs. 41,093",41
+E1095,Arun Kumar,arun.kumar95@example.com,+91 9207687231,Bengaluru,it ,11-05-2024,"71,700",33
+E1028,Anita Das,anita.das28@example.com,89029-90346,Coimbatore,it ,2024-07-22,"37,535",39
+E1127, Divya R ,divya.r127@example.com,81990-29420,null,Sales,"Mar 06, 2022","81,257",44
+E1004,lakshmi N,lakshmi.n4@example.com,7977476073,Hyderabad,sales,02/01/2023,,29
+E1049,santhosh m,santhosh.m49@example.com,+91 9563039927,Salem,HR,"Aug 29, 2022",83660,27
+E1094,Anita Das,anita.das94@example.com,8644518592,CHENNAI,sales,"Dec 28, 2022","42,234",24
+E1020,Meena Iyer,meena.iyer20@example.com,8112766850,hyd,FINANCE,22/05/2022,34191,45
+E1037,santhosh m,santhosh.m37@example.com,7697709820,Chennai,it ,20/05/2022,"32,804",30
+E1176,Anita Das,anita.das176@example.com,+91 9145349330,bangalore,hr,"Feb 07, 2024","55,573",38
+E1079,santhosh m,santhosh.m79@example.com,94222-42119,Bengaluru,HR,08-12-2022,48555,43
+E1123,santhosh m,santhosh.m123@example.com,85268-12643,Chennai,hr,2023-01-30,"43,965",36
+E1033,lakshmi N,lakshmi.n33@example.com,96250-53734,bangalore,Sales,nan,32704,30
+E1171,Meena Iyer,meena.iyer171@example.com,83382-53464,Bengaluru,Sales,2022-03-19,42065,32
+E1007,Meena Iyer,meena.iyer7@example.com,73435-40723,Bengaluru,hr,21-05-2023,"Rs. 25,543",45
+E1062,karthik S,karthik.s62@example.com,8094758082,Hyderabad,hr,28/08/2022,"30,084",50
+E1013,ANITA DAS ,anita.das13@example.com,+91 8348084505,N/A,it ,2023-12-18,"Rs. 41,416",42
+E1064,MEENA IYER ,meena.iyer64@example.com,9517209191,coimbatore ,IT,16/08/2024,79006,53
+E1157,lakshmi N,lakshmi.n157@example.com,7311765702,Salem,Sales,"Oct 19, 2023","67,629",42
+E1097,Arun Kumar,arun.kumar97@example.com,null,bangalore,FINANCE,2022-09-22,81626,45
+E1110,Meena Iyer,meena.iyer110@example.com,94494-90871,Bengaluru,hr,"Aug 11, 2022",56469,38
+E1104,Arun Kumar,arun.kumar104@example.com,+91 7009737282,Salem,FINANCE,18/05/2023,"85,188",45
+E1069,Vikram Singh,vikram.singh69@example.com,+91 8594233121,Chennai,HR,2023-05-14,"62,557",47
+E1090,RAJESH  KUMAR,rajesh..kumar90@example.com,7992207225,Coimbatore,hr,30/11/2022,80477,44
+E1179,karthik S,karthik.s179@example.com,9345271141,coimbatore ,Finance,nan,,46
+E1129,RAJESH  KUMAR,rajesh..kumar129@example.com,99346-10289,Salem,Finance,2024-03-20,"Rs. 27,367",38
+E1060,Meena Iyer,meena.iyer60@example.com,+91 9512147085,Coimbatore,Finance,11-11-2022,77532,43
+E1191,RAJESH  KUMAR,rajesh..kumar191@example.com,+91 7646310493,Bengaluru,FINANCE,,48201,-
+E1002,Arun Kumar,arun.kumar2@example.com,+91 8663754360,Bengaluru,sales,16-08-2022,"24,754",38
+E1066,RAJESH  KUMAR,rajesh..kumar66@example.com,8470592626,Coimbatore,Sales,12/07/2022,"79,051",45
+E1150,priya sharma,priya.sharma150@example.com,82219-05428,Salem,Finance,2022-02-20,77386,59
+E1081, Divya R ,-,79054-39748,Bengaluru,FINANCE,09/03/2022,"82,117",58
+E1026,priya sharma,priya.sharma26@example.com,+91 9782687651,Madurai,IT,"Mar 10, 2023",41961,58
+E1142, Divya R ,divya.r142@example.com,95611-33772,Bengaluru,sales,03/03/2022,"32,854",58
+E1167,Arun Kumar,null,72076-34572,bangalore,it ,01/03/2022,75498,27
+E1093,Anita Das,anita.das93@example.com,+91 9985550264,Salem,IT,15/06/2024,"83,660",24
+E1172,Vikram Singh,vikram.singh172@example.com,98085-77380,Coimbatore,sales,"Sep 02, 2024","30,752",23
+E1148,RAJESH  KUMAR,nan,8268202102,hyd,sales,19/02/2023,44067,41
+E1166,karthik S,N/A,8635352638,Coimbatore,HR,16-08-2024,73324,32
+E1119,Anita Das,nan,,Coimbatore,hr,02/10/2023,75851,51
+E1149, Divya R ,divya.r149@example.com,+91 7794421531,hyd,FINANCE,2022-12-24,"26,988",nan
+E1138,Arun Kumar,arun.kumar138@example.com,+91 8530089419,Madurai,Finance,08-10-2022,"Rs. 22,438",50
+E1169,priya sharma,priya.sharma169@example.com,98301-05769,Hyderabad,HR,"Apr 10, 2024","87,576",29
+E1107,Vikram Singh,vikram.singh107@example.com,7606264304,bangalore,Sales,08/08/2023,51829,21
+E1034,Meena Iyer,meena.iyer34@example.com,7846834488,Salem,IT,05-10-2023,27117,23
+E1147,Vikram Singh,vikram.singh147@example.com,8020157980,Madurai,sales,22/04/2023,"34,986",24
+E1021,lakshmi N,lakshmi.n21@example.com,+91 7767895270,CHENNAI,hr,31-05-2023,89466,50
+E1000,Anita Das,anita.das0@example.com,+91 8963714554,Bengaluru,sales,2022-03-31,"71,502",48
+E1058,Meena Iyer,meena.iyer58@example.com,+91 8943845445,CHENNAI,Finance,04/12/2023,"Rs. 33,788",45
+E1184,Arun Kumar,arun.kumar184@example.com,93466-47510,coimbatore ,Finance,2022-05-30,51376,30
+E1131,Vikram Singh,vikram.singh131@example.com,7503098558,Madurai,Finance,2022-10-18,"29,683",51
+E1152,santhosh m,santhosh.m152@example.com,78693-54184,Chennai,Finance,23/11/2022,75636,46
+E1106, Divya R ,divya.r106@example.com,7393326078,Coimbatore,FINANCE,"Dec 29, 2022","Rs. 33,873",50
