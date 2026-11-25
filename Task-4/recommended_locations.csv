@@ -1,0 +1,4 @@
+rank,location,lat,lon,unserved_orders,addressable_sales,avg_distance_to_current_store_km,nearest_current_store_km,est_annual_sales_won
+1,Columbus,39.965,-83.019,590,42852.0,414.0,442.0,12856.0
+2,Atlanta,33.747,-84.387,497,34563.0,936.0,948.0,10369.0
+3,Phoenix,33.429,-112.072,469,34145.0,573.0,574.0,10244.0
