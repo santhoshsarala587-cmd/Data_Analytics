@@ -1,0 +1,1651 @@
+month,region,department,kpi,value,target
+2025-01,North,Sales,Win rate,27.711,30.0
+2025-01,North,Sales,Avg deal size,15.144,15.0
+2025-01,North,Sales,Sales cycle,43.064,42.0
+2025-01,North,Marketing,Leads generated,163.434,180.0
+2025-01,North,Marketing,Lead conversion,11.791,12.5
+2025-01,North,Marketing,Cost per lead,24.811,22.0
+2025-01,North,Finance,Gross margin,38.621,39.0
+2025-01,North,Finance,Opex ratio,24.898,23.0
+2025-01,North,Finance,Days sales outstanding,41.297,38.0
+2025-01,North,HR,Headcount,24.331,25.0
+2025-01,North,HR,Attrition,1.306,1.0
+2025-01,North,HR,Employee satisfaction,3.795,4.1
+2025-01,North,Operations,On-time delivery,90.053,95.0
+2025-01,North,Operations,Defect rate,2.12,1.8
+2025-01,North,Operations,Fulfilment time,3.351,3.0
+2025-01,South,Sales,Win rate,26.778,30.0
+2025-01,South,Sales,Avg deal size,14.388,15.0
+2025-01,South,Sales,Sales cycle,49.909,42.0
+2025-01,South,Marketing,Leads generated,157.333,180.0
+2025-01,South,Marketing,Lead conversion,11.438,12.5
+2025-01,South,Marketing,Cost per lead,24.416,22.0
+2025-01,South,Finance,Gross margin,35.705,39.0
+2025-01,South,Finance,Opex ratio,25.009,23.0
+2025-01,South,Finance,Days sales outstanding,42.928,38.0
+2025-01,South,HR,Headcount,22.081,25.0
+2025-01,South,HR,Attrition,1.296,1.0
+2025-01,South,HR,Employee satisfaction,3.779,4.1
+2025-01,South,Operations,On-time delivery,86.337,95.0
+2025-01,South,Operations,Defect rate,2.247,1.8
+2025-01,South,Operations,Fulfilment time,3.57,3.0
+2025-01,East,Sales,Win rate,27.747,30.0
+2025-01,East,Sales,Avg deal size,14.866,15.0
+2025-01,East,Sales,Sales cycle,46.11,42.0
+2025-01,East,Marketing,Leads generated,166.653,180.0
+2025-01,East,Marketing,Lead conversion,12.042,12.5
+2025-01,East,Marketing,Cost per lead,23.204,22.0
+2025-01,East,Finance,Gross margin,38.546,39.0
+2025-01,East,Finance,Opex ratio,23.112,23.0
+2025-01,East,Finance,Days sales outstanding,40.793,38.0
+2025-01,East,HR,Headcount,24.502,25.0
+2025-01,East,HR,Attrition,1.246,1.0
+2025-01,East,HR,Employee satisfaction,4.173,4.1
+2025-01,East,Operations,On-time delivery,93.003,95.0
+2025-01,East,Operations,Defect rate,2.052,1.8
+2025-01,East,Operations,Fulfilment time,3.366,3.0
+2025-01,West,Sales,Win rate,28.99,30.0
+2025-01,West,Sales,Avg deal size,14.881,15.0
+2025-01,West,Sales,Sales cycle,45.429,42.0
+2025-01,West,Marketing,Leads generated,169.325,180.0
+2025-01,West,Marketing,Lead conversion,11.424,12.5
+2025-01,West,Marketing,Cost per lead,23.755,22.0
+2025-01,West,Finance,Gross margin,40.11,39.0
+2025-01,West,Finance,Opex ratio,23.136,23.0
+2025-01,West,Finance,Days sales outstanding,39.754,38.0
+2025-01,West,HR,Headcount,23.819,25.0
+2025-01,West,HR,Attrition,1.212,1.0
+2025-01,West,HR,Employee satisfaction,3.979,4.1
+2025-01,West,Operations,On-time delivery,96.2,95.0
+2025-01,West,Operations,Defect rate,2.012,1.8
+2025-01,West,Operations,Fulfilment time,3.323,3.0
+2025-01,Central,Sales,Win rate,26.843,30.0
+2025-01,Central,Sales,Avg deal size,14.1,15.0
+2025-01,Central,Sales,Sales cycle,48.041,42.0
+2025-01,Central,Marketing,Leads generated,165.016,180.0
+2025-01,Central,Marketing,Lead conversion,10.797,12.5
+2025-01,Central,Marketing,Cost per lead,25.166,22.0
+2025-01,Central,Finance,Gross margin,35.07,39.0
+2025-01,Central,Finance,Opex ratio,24.979,23.0
+2025-01,Central,Finance,Days sales outstanding,42.438,38.0
+2025-01,Central,HR,Headcount,22.954,25.0
+2025-01,Central,HR,Attrition,1.304,1.0
+2025-01,Central,HR,Employee satisfaction,3.777,4.1
+2025-01,Central,Operations,On-time delivery,88.296,95.0
+2025-01,Central,Operations,Defect rate,2.168,1.8
+2025-01,Central,Operations,Fulfilment time,3.425,3.0
+2025-02,North,Sales,Win rate,27.476,30.0
+2025-02,North,Sales,Avg deal size,14.183,15.0
+2025-02,North,Sales,Sales cycle,45.466,42.0
+2025-02,North,Marketing,Leads generated,163.049,180.0
+2025-02,North,Marketing,Lead conversion,11.911,12.5
+2025-02,North,Marketing,Cost per lead,23.007,22.0
+2025-02,North,Finance,Gross margin,37.759,39.0
+2025-02,North,Finance,Opex ratio,24.613,23.0
+2025-02,North,Finance,Days sales outstanding,40.161,38.0
+2025-02,North,HR,Headcount,23.352,25.0
+2025-02,North,HR,Attrition,1.31,1.0
+2025-02,North,HR,Employee satisfaction,3.887,4.1
+2025-02,North,Operations,On-time delivery,94.288,95.0
+2025-02,North,Operations,Defect rate,2.053,1.8
+2025-02,North,Operations,Fulfilment time,3.403,3.0
+2025-02,South,Sales,Win rate,26.478,30.0
+2025-02,South,Sales,Avg deal size,14.353,15.0
+2025-02,South,Sales,Sales cycle,46.384,42.0
+2025-02,South,Marketing,Leads generated,163.934,180.0
+2025-02,South,Marketing,Lead conversion,10.827,12.5
+2025-02,South,Marketing,Cost per lead,23.956,22.0
+2025-02,South,Finance,Gross margin,35.725,39.0
+2025-02,South,Finance,Opex ratio,24.957,23.0
+2025-02,South,Finance,Days sales outstanding,42.315,38.0
+2025-02,South,HR,Headcount,23.4,25.0
+2025-02,South,HR,Attrition,1.375,1.0
+2025-02,South,HR,Employee satisfaction,3.791,4.1
+2025-02,South,Operations,On-time delivery,88.103,95.0
+2025-02,South,Operations,Defect rate,2.281,1.8
+2025-02,South,Operations,Fulfilment time,3.334,3.0
+2025-02,East,Sales,Win rate,26.477,30.0
+2025-02,East,Sales,Avg deal size,14.664,15.0
+2025-02,East,Sales,Sales cycle,43.453,42.0
+2025-02,East,Marketing,Leads generated,157.457,180.0
+2025-02,East,Marketing,Lead conversion,11.547,12.5
+2025-02,East,Marketing,Cost per lead,22.974,22.0
+2025-02,East,Finance,Gross margin,36.586,39.0
+2025-02,East,Finance,Opex ratio,23.939,23.0
+2025-02,East,Finance,Days sales outstanding,41.348,38.0
+2025-02,East,HR,Headcount,25.317,25.0
+2025-02,East,HR,Attrition,1.259,1.0
+2025-02,East,HR,Employee satisfaction,4.008,4.1
+2025-02,East,Operations,On-time delivery,91.63,95.0
+2025-02,East,Operations,Defect rate,2.071,1.8
+2025-02,East,Operations,Fulfilment time,3.261,3.0
+2025-02,West,Sales,Win rate,28.195,30.0
+2025-02,West,Sales,Avg deal size,14.869,15.0
+2025-02,West,Sales,Sales cycle,45.625,42.0
+2025-02,West,Marketing,Leads generated,172.965,180.0
+2025-02,West,Marketing,Lead conversion,12.247,12.5
+2025-02,West,Marketing,Cost per lead,22.221,22.0
+2025-02,West,Finance,Gross margin,37.563,39.0
+2025-02,West,Finance,Opex ratio,23.427,23.0
+2025-02,West,Finance,Days sales outstanding,39.014,38.0
+2025-02,West,HR,Headcount,25.055,25.0
+2025-02,West,HR,Attrition,1.272,1.0
+2025-02,West,HR,Employee satisfaction,4.05,4.1
+2025-02,West,Operations,On-time delivery,97.242,95.0
+2025-02,West,Operations,Defect rate,2.068,1.8
+2025-02,West,Operations,Fulfilment time,3.325,3.0
+2025-02,Central,Sales,Win rate,25.695,30.0
+2025-02,Central,Sales,Avg deal size,14.748,15.0
+2025-02,Central,Sales,Sales cycle,47.342,42.0
+2025-02,Central,Marketing,Leads generated,164.275,180.0
+2025-02,Central,Marketing,Lead conversion,11.295,12.5
+2025-02,Central,Marketing,Cost per lead,25.386,22.0
+2025-02,Central,Finance,Gross margin,37.158,39.0
+2025-02,Central,Finance,Opex ratio,24.755,23.0
+2025-02,Central,Finance,Days sales outstanding,42.207,38.0
+2025-02,Central,HR,Headcount,22.951,25.0
+2025-02,Central,HR,Attrition,1.321,1.0
+2025-02,Central,HR,Employee satisfaction,3.784,4.1
+2025-02,Central,Operations,On-time delivery,89.339,95.0
+2025-02,Central,Operations,Defect rate,2.113,1.8
+2025-02,Central,Operations,Fulfilment time,3.689,3.0
+2025-03,North,Sales,Win rate,26.554,30.0
+2025-03,North,Sales,Avg deal size,14.505,15.0
+2025-03,North,Sales,Sales cycle,48.444,42.0
+2025-03,North,Marketing,Leads generated,162.607,180.0
+2025-03,North,Marketing,Lead conversion,11.812,12.5
+2025-03,North,Marketing,Cost per lead,24.205,22.0
+2025-03,North,Finance,Gross margin,38.106,39.0
+2025-03,North,Finance,Opex ratio,22.951,23.0
+2025-03,North,Finance,Days sales outstanding,39.08,38.0
+2025-03,North,HR,Headcount,24.187,25.0
+2025-03,North,HR,Attrition,1.316,1.0
+2025-03,North,HR,Employee satisfaction,3.721,4.1
+2025-03,North,Operations,On-time delivery,93.088,95.0
+2025-03,North,Operations,Defect rate,2.069,1.8
+2025-03,North,Operations,Fulfilment time,3.449,3.0
+2025-03,South,Sales,Win rate,26.255,30.0
+2025-03,South,Sales,Avg deal size,13.745,15.0
+2025-03,South,Sales,Sales cycle,46.985,42.0
+2025-03,South,Marketing,Leads generated,158.951,180.0
+2025-03,South,Marketing,Lead conversion,11.52,12.5
+2025-03,South,Marketing,Cost per lead,26.599,22.0
+2025-03,South,Finance,Gross margin,37.132,39.0
+2025-03,South,Finance,Opex ratio,24.846,23.0
+2025-03,South,Finance,Days sales outstanding,43.387,38.0
+2025-03,South,HR,Headcount,23.26,25.0
+2025-03,South,HR,Attrition,1.388,1.0
+2025-03,South,HR,Employee satisfaction,3.821,4.1
+2025-03,South,Operations,On-time delivery,89.257,95.0
+2025-03,South,Operations,Defect rate,2.15,1.8
+2025-03,South,Operations,Fulfilment time,3.53,3.0
+2025-03,East,Sales,Win rate,28.427,30.0
+2025-03,East,Sales,Avg deal size,14.967,15.0
+2025-03,East,Sales,Sales cycle,46.561,42.0
+2025-03,East,Marketing,Leads generated,172.845,180.0
+2025-03,East,Marketing,Lead conversion,11.812,12.5
+2025-03,East,Marketing,Cost per lead,24.429,22.0
+2025-03,East,Finance,Gross margin,38.089,39.0
+2025-03,East,Finance,Opex ratio,24.091,23.0
+2025-03,East,Finance,Days sales outstanding,41.858,38.0
+2025-03,East,HR,Headcount,24.581,25.0
+2025-03,East,HR,Attrition,1.276,1.0
+2025-03,East,HR,Employee satisfaction,4.111,4.1
+2025-03,East,Operations,On-time delivery,98.116,95.0
+2025-03,East,Operations,Defect rate,2.09,1.8
+2025-03,East,Operations,Fulfilment time,3.335,3.0
+2025-03,West,Sales,Win rate,28.724,30.0
+2025-03,West,Sales,Avg deal size,15.188,15.0
+2025-03,West,Sales,Sales cycle,42.999,42.0
+2025-03,West,Marketing,Leads generated,169.949,180.0
+2025-03,West,Marketing,Lead conversion,11.967,12.5
+2025-03,West,Marketing,Cost per lead,22.26,22.0
+2025-03,West,Finance,Gross margin,39.937,39.0
+2025-03,West,Finance,Opex ratio,22.714,23.0
+2025-03,West,Finance,Days sales outstanding,40.325,38.0
+2025-03,West,HR,Headcount,24.089,25.0
+2025-03,West,HR,Attrition,1.237,1.0
+2025-03,West,HR,Employee satisfaction,3.918,4.1
+2025-03,West,Operations,On-time delivery,98.721,95.0
+2025-03,West,Operations,Defect rate,2.113,1.8
+2025-03,West,Operations,Fulfilment time,3.406,3.0
+2025-03,Central,Sales,Win rate,27.481,30.0
+2025-03,Central,Sales,Avg deal size,14.551,15.0
+2025-03,Central,Sales,Sales cycle,48.176,42.0
+2025-03,Central,Marketing,Leads generated,153.91,180.0
+2025-03,Central,Marketing,Lead conversion,11.375,12.5
+2025-03,Central,Marketing,Cost per lead,24.299,22.0
+2025-03,Central,Finance,Gross margin,36.971,39.0
+2025-03,Central,Finance,Opex ratio,23.862,23.0
+2025-03,Central,Finance,Days sales outstanding,43.37,38.0
+2025-03,Central,HR,Headcount,23.638,25.0
+2025-03,Central,HR,Attrition,1.297,1.0
+2025-03,Central,HR,Employee satisfaction,3.875,4.1
+2025-03,Central,Operations,On-time delivery,90.047,95.0
+2025-03,Central,Operations,Defect rate,2.117,1.8
+2025-03,Central,Operations,Fulfilment time,3.457,3.0
+2025-04,North,Sales,Win rate,26.851,30.0
+2025-04,North,Sales,Avg deal size,13.865,15.0
+2025-04,North,Sales,Sales cycle,43.753,42.0
+2025-04,North,Marketing,Leads generated,168.207,180.0
+2025-04,North,Marketing,Lead conversion,11.745,12.5
+2025-04,North,Marketing,Cost per lead,23.886,22.0
+2025-04,North,Finance,Gross margin,37.348,39.0
+2025-04,North,Finance,Opex ratio,23.355,23.0
+2025-04,North,Finance,Days sales outstanding,40.575,38.0
+2025-04,North,HR,Headcount,24.702,25.0
+2025-04,North,HR,Attrition,1.276,1.0
+2025-04,North,HR,Employee satisfaction,3.843,4.1
+2025-04,North,Operations,On-time delivery,95.726,95.0
+2025-04,North,Operations,Defect rate,2.109,1.8
+2025-04,North,Operations,Fulfilment time,3.327,3.0
+2025-04,South,Sales,Win rate,25.744,30.0
+2025-04,South,Sales,Avg deal size,13.856,15.0
+2025-04,South,Sales,Sales cycle,49.11,42.0
+2025-04,South,Marketing,Leads generated,163.382,180.0
+2025-04,South,Marketing,Lead conversion,11.058,12.5
+2025-04,South,Marketing,Cost per lead,23.92,22.0
+2025-04,South,Finance,Gross margin,38.526,39.0
+2025-04,South,Finance,Opex ratio,25.614,23.0
+2025-04,South,Finance,Days sales outstanding,43.903,38.0
+2025-04,South,HR,Headcount,23.833,25.0
+2025-04,South,HR,Attrition,1.309,1.0
+2025-04,South,HR,Employee satisfaction,3.665,4.1
+2025-04,South,Operations,On-time delivery,90.723,95.0
+2025-04,South,Operations,Defect rate,2.174,1.8
+2025-04,South,Operations,Fulfilment time,3.517,3.0
+2025-04,East,Sales,Win rate,27.509,30.0
+2025-04,East,Sales,Avg deal size,14.726,15.0
+2025-04,East,Sales,Sales cycle,45.164,42.0
+2025-04,East,Marketing,Leads generated,167.605,180.0
+2025-04,East,Marketing,Lead conversion,11.867,12.5
+2025-04,East,Marketing,Cost per lead,23.385,22.0
+2025-04,East,Finance,Gross margin,39.436,39.0
+2025-04,East,Finance,Opex ratio,23.927,23.0
+2025-04,East,Finance,Days sales outstanding,41.09,38.0
+2025-04,East,HR,Headcount,23.947,25.0
+2025-04,East,HR,Attrition,1.268,1.0
+2025-04,East,HR,Employee satisfaction,3.962,4.1
+2025-04,East,Operations,On-time delivery,96.677,95.0
+2025-04,East,Operations,Defect rate,2.007,1.8
+2025-04,East,Operations,Fulfilment time,3.357,3.0
+2025-04,West,Sales,Win rate,28.605,30.0
+2025-04,West,Sales,Avg deal size,15.318,15.0
+2025-04,West,Sales,Sales cycle,42.946,42.0
+2025-04,West,Marketing,Leads generated,169.995,180.0
+2025-04,West,Marketing,Lead conversion,11.672,12.5
+2025-04,West,Marketing,Cost per lead,23.228,22.0
+2025-04,West,Finance,Gross margin,40.5,39.0
+2025-04,West,Finance,Opex ratio,22.078,23.0
+2025-04,West,Finance,Days sales outstanding,38.427,38.0
+2025-04,West,HR,Headcount,24.908,25.0
+2025-04,West,HR,Attrition,1.247,1.0
+2025-04,West,HR,Employee satisfaction,4.209,4.1
+2025-04,West,Operations,On-time delivery,95.523,95.0
+2025-04,West,Operations,Defect rate,2.055,1.8
+2025-04,West,Operations,Fulfilment time,3.162,3.0
+2025-04,Central,Sales,Win rate,27.554,30.0
+2025-04,Central,Sales,Avg deal size,14.298,15.0
+2025-04,Central,Sales,Sales cycle,47.715,42.0
+2025-04,Central,Marketing,Leads generated,161.393,180.0
+2025-04,Central,Marketing,Lead conversion,10.682,12.5
+2025-04,Central,Marketing,Cost per lead,23.472,22.0
+2025-04,Central,Finance,Gross margin,36.09,39.0
+2025-04,Central,Finance,Opex ratio,24.713,23.0
+2025-04,Central,Finance,Days sales outstanding,41.213,38.0
+2025-04,Central,HR,Headcount,23.824,25.0
+2025-04,Central,HR,Attrition,1.351,1.0
+2025-04,Central,HR,Employee satisfaction,3.854,4.1
+2025-04,Central,Operations,On-time delivery,92.453,95.0
+2025-04,Central,Operations,Defect rate,2.178,1.8
+2025-04,Central,Operations,Fulfilment time,3.321,3.0
+2025-05,North,Sales,Win rate,26.972,30.0
+2025-05,North,Sales,Avg deal size,15.333,15.0
+2025-05,North,Sales,Sales cycle,44.029,42.0
+2025-05,North,Marketing,Leads generated,172.208,180.0
+2025-05,North,Marketing,Lead conversion,12.159,12.5
+2025-05,North,Marketing,Cost per lead,23.259,22.0
+2025-05,North,Finance,Gross margin,38.935,39.0
+2025-05,North,Finance,Opex ratio,22.775,23.0
+2025-05,North,Finance,Days sales outstanding,41.136,38.0
+2025-05,North,HR,Headcount,23.917,25.0
+2025-05,North,HR,Attrition,1.262,1.0
+2025-05,North,HR,Employee satisfaction,3.924,4.1
+2025-05,North,Operations,On-time delivery,92.42,95.0
+2025-05,North,Operations,Defect rate,2.076,1.8
+2025-05,North,Operations,Fulfilment time,3.362,3.0
+2025-05,South,Sales,Win rate,26.238,30.0
+2025-05,South,Sales,Avg deal size,13.911,15.0
+2025-05,South,Sales,Sales cycle,48.195,42.0
+2025-05,South,Marketing,Leads generated,169.992,180.0
+2025-05,South,Marketing,Lead conversion,11.243,12.5
+2025-05,South,Marketing,Cost per lead,24.153,22.0
+2025-05,South,Finance,Gross margin,36.145,39.0
+2025-05,South,Finance,Opex ratio,24.93,23.0
+2025-05,South,Finance,Days sales outstanding,42.389,38.0
+2025-05,South,HR,Headcount,23.433,25.0
+2025-05,South,HR,Attrition,1.312,1.0
+2025-05,South,HR,Employee satisfaction,3.696,4.1
+2025-05,South,Operations,On-time delivery,87.119,95.0
+2025-05,South,Operations,Defect rate,2.24,1.8
+2025-05,South,Operations,Fulfilment time,3.459,3.0
+2025-05,East,Sales,Win rate,26.294,30.0
+2025-05,East,Sales,Avg deal size,15.197,15.0
+2025-05,East,Sales,Sales cycle,45.646,42.0
+2025-05,East,Marketing,Leads generated,175.251,180.0
+2025-05,East,Marketing,Lead conversion,11.108,12.5
+2025-05,East,Marketing,Cost per lead,23.228,22.0
+2025-05,East,Finance,Gross margin,40.139,39.0
+2025-05,East,Finance,Opex ratio,23.499,23.0
+2025-05,East,Finance,Days sales outstanding,39.282,38.0
+2025-05,East,HR,Headcount,23.783,25.0
+2025-05,East,HR,Attrition,1.264,1.0
+2025-05,East,HR,Employee satisfaction,4.009,4.1
+2025-05,East,Operations,On-time delivery,96.632,95.0
+2025-05,East,Operations,Defect rate,2.098,1.8
+2025-05,East,Operations,Fulfilment time,3.257,3.0
+2025-05,West,Sales,Win rate,28.814,30.0
+2025-05,West,Sales,Avg deal size,14.784,15.0
+2025-05,West,Sales,Sales cycle,43.099,42.0
+2025-05,West,Marketing,Leads generated,171.417,180.0
+2025-05,West,Marketing,Lead conversion,12.194,12.5
+2025-05,West,Marketing,Cost per lead,22.703,22.0
+2025-05,West,Finance,Gross margin,40.917,39.0
+2025-05,West,Finance,Opex ratio,23.143,23.0
+2025-05,West,Finance,Days sales outstanding,38.141,38.0
+2025-05,West,HR,Headcount,25.155,25.0
+2025-05,West,HR,Attrition,1.236,1.0
+2025-05,West,HR,Employee satisfaction,3.986,4.1
+2025-05,West,Operations,On-time delivery,92.949,95.0
+2025-05,West,Operations,Defect rate,2.117,1.8
+2025-05,West,Operations,Fulfilment time,3.321,3.0
+2025-05,Central,Sales,Win rate,25.542,30.0
+2025-05,Central,Sales,Avg deal size,14.7,15.0
+2025-05,Central,Sales,Sales cycle,47.749,42.0
+2025-05,Central,Marketing,Leads generated,160.214,180.0
+2025-05,Central,Marketing,Lead conversion,11.485,12.5
+2025-05,Central,Marketing,Cost per lead,25.683,22.0
+2025-05,Central,Finance,Gross margin,37.74,39.0
+2025-05,Central,Finance,Opex ratio,24.589,23.0
+2025-05,Central,Finance,Days sales outstanding,42.724,38.0
+2025-05,Central,HR,Headcount,23.043,25.0
+2025-05,Central,HR,Attrition,1.302,1.0
+2025-05,Central,HR,Employee satisfaction,3.708,4.1
+2025-05,Central,Operations,On-time delivery,90.535,95.0
+2025-05,Central,Operations,Defect rate,2.216,1.8
+2025-05,Central,Operations,Fulfilment time,3.375,3.0
+2025-06,North,Sales,Win rate,26.616,30.0
+2025-06,North,Sales,Avg deal size,14.869,15.0
+2025-06,North,Sales,Sales cycle,44.678,42.0
+2025-06,North,Marketing,Leads generated,169.862,180.0
+2025-06,North,Marketing,Lead conversion,11.702,12.5
+2025-06,North,Marketing,Cost per lead,23.431,22.0
+2025-06,North,Finance,Gross margin,38.716,39.0
+2025-06,North,Finance,Opex ratio,23.565,23.0
+2025-06,North,Finance,Days sales outstanding,39.235,38.0
+2025-06,North,HR,Headcount,23.831,25.0
+2025-06,North,HR,Attrition,1.358,1.0
+2025-06,North,HR,Employee satisfaction,4.284,4.1
+2025-06,North,Operations,On-time delivery,96.521,95.0
+2025-06,North,Operations,Defect rate,2.025,1.8
+2025-06,North,Operations,Fulfilment time,3.339,3.0
+2025-06,South,Sales,Win rate,27.296,30.0
+2025-06,South,Sales,Avg deal size,13.641,15.0
+2025-06,South,Sales,Sales cycle,46.418,42.0
+2025-06,South,Marketing,Leads generated,159.256,180.0
+2025-06,South,Marketing,Lead conversion,11.022,12.5
+2025-06,South,Marketing,Cost per lead,24.009,22.0
+2025-06,South,Finance,Gross margin,38.255,39.0
+2025-06,South,Finance,Opex ratio,24.242,23.0
+2025-06,South,Finance,Days sales outstanding,42.476,38.0
+2025-06,South,HR,Headcount,24.584,25.0
+2025-06,South,HR,Attrition,1.358,1.0
+2025-06,South,HR,Employee satisfaction,3.641,4.1
+2025-06,South,Operations,On-time delivery,91.782,95.0
+2025-06,South,Operations,Defect rate,2.301,1.8
+2025-06,South,Operations,Fulfilment time,3.491,3.0
+2025-06,East,Sales,Win rate,28.325,30.0
+2025-06,East,Sales,Avg deal size,14.633,15.0
+2025-06,East,Sales,Sales cycle,43.146,42.0
+2025-06,East,Marketing,Leads generated,176.802,180.0
+2025-06,East,Marketing,Lead conversion,12.338,12.5
+2025-06,East,Marketing,Cost per lead,23.426,22.0
+2025-06,East,Finance,Gross margin,38.96,39.0
+2025-06,East,Finance,Opex ratio,22.355,23.0
+2025-06,East,Finance,Days sales outstanding,38.337,38.0
+2025-06,East,HR,Headcount,24.283,25.0
+2025-06,East,HR,Attrition,1.301,1.0
+2025-06,East,HR,Employee satisfaction,3.983,4.1
+2025-06,East,Operations,On-time delivery,94.618,95.0
+2025-06,East,Operations,Defect rate,2.104,1.8
+2025-06,East,Operations,Fulfilment time,3.324,3.0
+2025-06,West,Sales,Win rate,28.399,30.0
+2025-06,West,Sales,Avg deal size,15.406,15.0
+2025-06,West,Sales,Sales cycle,43.724,42.0
+2025-06,West,Marketing,Leads generated,164.305,180.0
+2025-06,West,Marketing,Lead conversion,12.055,12.5
+2025-06,West,Marketing,Cost per lead,22.549,22.0
+2025-06,West,Finance,Gross margin,39.566,39.0
+2025-06,West,Finance,Opex ratio,22.947,23.0
+2025-06,West,Finance,Days sales outstanding,38.371,38.0
+2025-06,West,HR,Headcount,25.936,25.0
+2025-06,West,HR,Attrition,1.261,1.0
+2025-06,West,HR,Employee satisfaction,4.111,4.1
+2025-06,West,Operations,On-time delivery,97.364,95.0
+2025-06,West,Operations,Defect rate,2.036,1.8
+2025-06,West,Operations,Fulfilment time,3.285,3.0
+2025-06,Central,Sales,Win rate,27.243,30.0
+2025-06,Central,Sales,Avg deal size,14.585,15.0
+2025-06,Central,Sales,Sales cycle,45.642,42.0
+2025-06,Central,Marketing,Leads generated,158.621,180.0
+2025-06,Central,Marketing,Lead conversion,11.208,12.5
+2025-06,Central,Marketing,Cost per lead,24.236,22.0
+2025-06,Central,Finance,Gross margin,35.824,39.0
+2025-06,Central,Finance,Opex ratio,23.721,23.0
+2025-06,Central,Finance,Days sales outstanding,40.208,38.0
+2025-06,Central,HR,Headcount,23.342,25.0
+2025-06,Central,HR,Attrition,1.313,1.0
+2025-06,Central,HR,Employee satisfaction,3.938,4.1
+2025-06,Central,Operations,On-time delivery,92.056,95.0
+2025-06,Central,Operations,Defect rate,2.221,1.8
+2025-06,Central,Operations,Fulfilment time,3.348,3.0
+2025-07,North,Sales,Win rate,27.105,30.0
+2025-07,North,Sales,Avg deal size,14.731,15.0
+2025-07,North,Sales,Sales cycle,46.78,42.0
+2025-07,North,Marketing,Leads generated,174.747,180.0
+2025-07,North,Marketing,Lead conversion,11.592,12.5
+2025-07,North,Marketing,Cost per lead,23.792,22.0
+2025-07,North,Finance,Gross margin,40.941,39.0
+2025-07,North,Finance,Opex ratio,22.798,23.0
+2025-07,North,Finance,Days sales outstanding,39.808,38.0
+2025-07,North,HR,Headcount,25.35,25.0
+2025-07,North,HR,Attrition,1.329,1.0
+2025-07,North,HR,Employee satisfaction,3.896,4.1
+2025-07,North,Operations,On-time delivery,97.69,95.0
+2025-07,North,Operations,Defect rate,2.161,1.8
+2025-07,North,Operations,Fulfilment time,3.377,3.0
+2025-07,South,Sales,Win rate,25.725,30.0
+2025-07,South,Sales,Avg deal size,14.206,15.0
+2025-07,South,Sales,Sales cycle,48.248,42.0
+2025-07,South,Marketing,Leads generated,163.374,180.0
+2025-07,South,Marketing,Lead conversion,11.545,12.5
+2025-07,South,Marketing,Cost per lead,24.221,22.0
+2025-07,South,Finance,Gross margin,38.827,39.0
+2025-07,South,Finance,Opex ratio,24.237,23.0
+2025-07,South,Finance,Days sales outstanding,43.623,38.0
+2025-07,South,HR,Headcount,23.809,25.0
+2025-07,South,HR,Attrition,1.359,1.0
+2025-07,South,HR,Employee satisfaction,3.982,4.1
+2025-07,South,Operations,On-time delivery,87.62,95.0
+2025-07,South,Operations,Defect rate,2.155,1.8
+2025-07,South,Operations,Fulfilment time,3.466,3.0
+2025-07,East,Sales,Win rate,27.236,30.0
+2025-07,East,Sales,Avg deal size,14.481,15.0
+2025-07,East,Sales,Sales cycle,43.834,42.0
+2025-07,East,Marketing,Leads generated,169.436,180.0
+2025-07,East,Marketing,Lead conversion,11.925,12.5
+2025-07,East,Marketing,Cost per lead,23.241,22.0
+2025-07,East,Finance,Gross margin,41.813,39.0
+2025-07,East,Finance,Opex ratio,22.688,23.0
+2025-07,East,Finance,Days sales outstanding,41.697,38.0
+2025-07,East,HR,Headcount,25.194,25.0
+2025-07,East,HR,Attrition,1.277,1.0
+2025-07,East,HR,Employee satisfaction,3.806,4.1
+2025-07,East,Operations,On-time delivery,92.483,95.0
+2025-07,East,Operations,Defect rate,2.081,1.8
+2025-07,East,Operations,Fulfilment time,3.296,3.0
+2025-07,West,Sales,Win rate,27.878,30.0
+2025-07,West,Sales,Avg deal size,15.383,15.0
+2025-07,West,Sales,Sales cycle,44.516,42.0
+2025-07,West,Marketing,Leads generated,170.406,180.0
+2025-07,West,Marketing,Lead conversion,11.645,12.5
+2025-07,West,Marketing,Cost per lead,22.093,22.0
+2025-07,West,Finance,Gross margin,39.729,39.0
+2025-07,West,Finance,Opex ratio,22.852,23.0
+2025-07,West,Finance,Days sales outstanding,39.543,38.0
+2025-07,West,HR,Headcount,24.716,25.0
+2025-07,West,HR,Attrition,1.267,1.0
+2025-07,West,HR,Employee satisfaction,4.081,4.1
+2025-07,West,Operations,On-time delivery,96.957,95.0
+2025-07,West,Operations,Defect rate,2.103,1.8
+2025-07,West,Operations,Fulfilment time,3.323,3.0
+2025-07,Central,Sales,Win rate,26.49,30.0
+2025-07,Central,Sales,Avg deal size,14.178,15.0
+2025-07,Central,Sales,Sales cycle,45.437,42.0
+2025-07,Central,Marketing,Leads generated,160.698,180.0
+2025-07,Central,Marketing,Lead conversion,11.301,12.5
+2025-07,Central,Marketing,Cost per lead,24.02,22.0
+2025-07,Central,Finance,Gross margin,37.258,39.0
+2025-07,Central,Finance,Opex ratio,23.478,23.0
+2025-07,Central,Finance,Days sales outstanding,40.009,38.0
+2025-07,Central,HR,Headcount,23.869,25.0
+2025-07,Central,HR,Attrition,1.424,1.0
+2025-07,Central,HR,Employee satisfaction,3.928,4.1
+2025-07,Central,Operations,On-time delivery,92.865,95.0
+2025-07,Central,Operations,Defect rate,2.19,1.8
+2025-07,Central,Operations,Fulfilment time,3.404,3.0
+2025-08,North,Sales,Win rate,29.086,30.0
+2025-08,North,Sales,Avg deal size,14.78,15.0
+2025-08,North,Sales,Sales cycle,43.553,42.0
+2025-08,North,Marketing,Leads generated,163.389,180.0
+2025-08,North,Marketing,Lead conversion,11.866,12.5
+2025-08,North,Marketing,Cost per lead,22.709,22.0
+2025-08,North,Finance,Gross margin,38.202,39.0
+2025-08,North,Finance,Opex ratio,22.786,23.0
+2025-08,North,Finance,Days sales outstanding,38.468,38.0
+2025-08,North,HR,Headcount,24.753,25.0
+2025-08,North,HR,Attrition,1.252,1.0
+2025-08,North,HR,Employee satisfaction,4.229,4.1
+2025-08,North,Operations,On-time delivery,88.143,95.0
+2025-08,North,Operations,Defect rate,2.037,1.8
+2025-08,North,Operations,Fulfilment time,3.308,3.0
+2025-08,South,Sales,Win rate,26.939,30.0
+2025-08,South,Sales,Avg deal size,14.192,15.0
+2025-08,South,Sales,Sales cycle,46.852,42.0
+2025-08,South,Marketing,Leads generated,162.665,180.0
+2025-08,South,Marketing,Lead conversion,11.393,12.5
+2025-08,South,Marketing,Cost per lead,24.631,22.0
+2025-08,South,Finance,Gross margin,37.764,39.0
+2025-08,South,Finance,Opex ratio,24.223,23.0
+2025-08,South,Finance,Days sales outstanding,42.498,38.0
+2025-08,South,HR,Headcount,24.24,25.0
+2025-08,South,HR,Attrition,1.391,1.0
+2025-08,South,HR,Employee satisfaction,3.909,4.1
+2025-08,South,Operations,On-time delivery,94.535,95.0
+2025-08,South,Operations,Defect rate,2.216,1.8
+2025-08,South,Operations,Fulfilment time,3.544,3.0
+2025-08,East,Sales,Win rate,28.009,30.0
+2025-08,East,Sales,Avg deal size,15.298,15.0
+2025-08,East,Sales,Sales cycle,44.388,42.0
+2025-08,East,Marketing,Leads generated,172.855,180.0
+2025-08,East,Marketing,Lead conversion,12.193,12.5
+2025-08,East,Marketing,Cost per lead,23.697,22.0
+2025-08,East,Finance,Gross margin,39.532,39.0
+2025-08,East,Finance,Opex ratio,22.45,23.0
+2025-08,East,Finance,Days sales outstanding,39.375,38.0
+2025-08,East,HR,Headcount,24.28,25.0
+2025-08,East,HR,Attrition,1.281,1.0
+2025-08,East,HR,Employee satisfaction,4.204,4.1
+2025-08,East,Operations,On-time delivery,96.391,95.0
+2025-08,East,Operations,Defect rate,2.098,1.8
+2025-08,East,Operations,Fulfilment time,3.269,3.0
+2025-08,West,Sales,Win rate,29.378,30.0
+2025-08,West,Sales,Avg deal size,15.525,15.0
+2025-08,West,Sales,Sales cycle,43.566,42.0
+2025-08,West,Marketing,Leads generated,159.855,180.0
+2025-08,West,Marketing,Lead conversion,12.016,12.5
+2025-08,West,Marketing,Cost per lead,23.031,22.0
+2025-08,West,Finance,Gross margin,40.06,39.0
+2025-08,West,Finance,Opex ratio,22.152,23.0
+2025-08,West,Finance,Days sales outstanding,39.535,38.0
+2025-08,West,HR,Headcount,24.852,25.0
+2025-08,West,HR,Attrition,1.256,1.0
+2025-08,West,HR,Employee satisfaction,4.19,4.1
+2025-08,West,Operations,On-time delivery,96.087,95.0
+2025-08,West,Operations,Defect rate,2.056,1.8
+2025-08,West,Operations,Fulfilment time,3.198,3.0
+2025-08,Central,Sales,Win rate,26.111,30.0
+2025-08,Central,Sales,Avg deal size,14.265,15.0
+2025-08,Central,Sales,Sales cycle,45.62,42.0
+2025-08,Central,Marketing,Leads generated,160.82,180.0
+2025-08,Central,Marketing,Lead conversion,11.777,12.5
+2025-08,Central,Marketing,Cost per lead,24.002,22.0
+2025-08,Central,Finance,Gross margin,37.262,39.0
+2025-08,Central,Finance,Opex ratio,23.178,23.0
+2025-08,Central,Finance,Days sales outstanding,40.688,38.0
+2025-08,Central,HR,Headcount,24.7,25.0
+2025-08,Central,HR,Attrition,1.334,1.0
+2025-08,Central,HR,Employee satisfaction,3.959,4.1
+2025-08,Central,Operations,On-time delivery,92.7,95.0
+2025-08,Central,Operations,Defect rate,2.144,1.8
+2025-08,Central,Operations,Fulfilment time,3.32,3.0
+2025-09,North,Sales,Win rate,28.181,30.0
+2025-09,North,Sales,Avg deal size,14.329,15.0
+2025-09,North,Sales,Sales cycle,45.105,42.0
+2025-09,North,Marketing,Leads generated,164.104,180.0
+2025-09,North,Marketing,Lead conversion,12.095,12.5
+2025-09,North,Marketing,Cost per lead,22.959,22.0
+2025-09,North,Finance,Gross margin,39.074,39.0
+2025-09,North,Finance,Opex ratio,23.827,23.0
+2025-09,North,Finance,Days sales outstanding,38.603,38.0
+2025-09,North,HR,Headcount,24.764,25.0
+2025-09,North,HR,Attrition,1.296,1.0
+2025-09,North,HR,Employee satisfaction,4.069,4.1
+2025-09,North,Operations,On-time delivery,96.477,95.0
+2025-09,North,Operations,Defect rate,2.126,1.8
+2025-09,North,Operations,Fulfilment time,3.305,3.0
+2025-09,South,Sales,Win rate,26.478,30.0
+2025-09,South,Sales,Avg deal size,14.586,15.0
+2025-09,South,Sales,Sales cycle,46.043,42.0
+2025-09,South,Marketing,Leads generated,163.03,180.0
+2025-09,South,Marketing,Lead conversion,11.448,12.5
+2025-09,South,Marketing,Cost per lead,23.351,22.0
+2025-09,South,Finance,Gross margin,36.582,39.0
+2025-09,South,Finance,Opex ratio,24.299,23.0
+2025-09,South,Finance,Days sales outstanding,42.587,38.0
+2025-09,South,HR,Headcount,24.535,25.0
+2025-09,South,HR,Attrition,1.321,1.0
+2025-09,South,HR,Employee satisfaction,3.886,4.1
+2025-09,South,Operations,On-time delivery,93.679,95.0
+2025-09,South,Operations,Defect rate,2.2,1.8
+2025-09,South,Operations,Fulfilment time,3.49,3.0
+2025-09,East,Sales,Win rate,28.395,30.0
+2025-09,East,Sales,Avg deal size,15.222,15.0
+2025-09,East,Sales,Sales cycle,44.606,42.0
+2025-09,East,Marketing,Leads generated,167.109,180.0
+2025-09,East,Marketing,Lead conversion,11.447,12.5
+2025-09,East,Marketing,Cost per lead,23.018,22.0
+2025-09,East,Finance,Gross margin,40.063,39.0
+2025-09,East,Finance,Opex ratio,22.802,23.0
+2025-09,East,Finance,Days sales outstanding,39.13,38.0
+2025-09,East,HR,Headcount,25.604,25.0
+2025-09,East,HR,Attrition,1.266,1.0
+2025-09,East,HR,Employee satisfaction,4.146,4.1
+2025-09,East,Operations,On-time delivery,97.437,95.0
+2025-09,East,Operations,Defect rate,2.01,1.8
+2025-09,East,Operations,Fulfilment time,3.208,3.0
+2025-09,West,Sales,Win rate,28.839,30.0
+2025-09,West,Sales,Avg deal size,15.105,15.0
+2025-09,West,Sales,Sales cycle,44.311,42.0
+2025-09,West,Marketing,Leads generated,172.841,180.0
+2025-09,West,Marketing,Lead conversion,12.436,12.5
+2025-09,West,Marketing,Cost per lead,23.367,22.0
+2025-09,West,Finance,Gross margin,38.939,39.0
+2025-09,West,Finance,Opex ratio,21.709,23.0
+2025-09,West,Finance,Days sales outstanding,39.038,38.0
+2025-09,West,HR,Headcount,25.364,25.0
+2025-09,West,HR,Attrition,1.285,1.0
+2025-09,West,HR,Employee satisfaction,4.308,4.1
+2025-09,West,Operations,On-time delivery,96.562,95.0
+2025-09,West,Operations,Defect rate,2.095,1.8
+2025-09,West,Operations,Fulfilment time,3.166,3.0
+2025-09,Central,Sales,Win rate,26.614,30.0
+2025-09,Central,Sales,Avg deal size,14.696,15.0
+2025-09,Central,Sales,Sales cycle,46.193,42.0
+2025-09,Central,Marketing,Leads generated,168.692,180.0
+2025-09,Central,Marketing,Lead conversion,11.61,12.5
+2025-09,Central,Marketing,Cost per lead,24.47,22.0
+2025-09,Central,Finance,Gross margin,38.566,39.0
+2025-09,Central,Finance,Opex ratio,22.931,23.0
+2025-09,Central,Finance,Days sales outstanding,40.545,38.0
+2025-09,Central,HR,Headcount,23.854,25.0
+2025-09,Central,HR,Attrition,1.376,1.0
+2025-09,Central,HR,Employee satisfaction,3.806,4.1
+2025-09,Central,Operations,On-time delivery,92.614,95.0
+2025-09,Central,Operations,Defect rate,2.155,1.8
+2025-09,Central,Operations,Fulfilment time,3.239,3.0
+2025-10,North,Sales,Win rate,27.87,30.0
+2025-10,North,Sales,Avg deal size,15.253,15.0
+2025-10,North,Sales,Sales cycle,43.926,42.0
+2025-10,North,Marketing,Leads generated,173.699,180.0
+2025-10,North,Marketing,Lead conversion,12.025,12.5
+2025-10,North,Marketing,Cost per lead,23.324,22.0
+2025-10,North,Finance,Gross margin,38.887,39.0
+2025-10,North,Finance,Opex ratio,23.04,23.0
+2025-10,North,Finance,Days sales outstanding,40.004,38.0
+2025-10,North,HR,Headcount,24.879,25.0
+2025-10,North,HR,Attrition,1.27,1.0
+2025-10,North,HR,Employee satisfaction,4.024,4.1
+2025-10,North,Operations,On-time delivery,96.232,95.0
+2025-10,North,Operations,Defect rate,2.174,1.8
+2025-10,North,Operations,Fulfilment time,3.349,3.0
+2025-10,South,Sales,Win rate,26.234,30.0
+2025-10,South,Sales,Avg deal size,14.695,15.0
+2025-10,South,Sales,Sales cycle,44.345,42.0
+2025-10,South,Marketing,Leads generated,160.704,180.0
+2025-10,South,Marketing,Lead conversion,11.222,12.5
+2025-10,South,Marketing,Cost per lead,25.008,22.0
+2025-10,South,Finance,Gross margin,38.5,39.0
+2025-10,South,Finance,Opex ratio,24.276,23.0
+2025-10,South,Finance,Days sales outstanding,41.993,38.0
+2025-10,South,HR,Headcount,24.648,25.0
+2025-10,South,HR,Attrition,1.402,1.0
+2025-10,South,HR,Employee satisfaction,3.931,4.1
+2025-10,South,Operations,On-time delivery,94.178,95.0
+2025-10,South,Operations,Defect rate,2.184,1.8
+2025-10,South,Operations,Fulfilment time,3.46,3.0
+2025-10,East,Sales,Win rate,27.184,30.0
+2025-10,East,Sales,Avg deal size,15.524,15.0
+2025-10,East,Sales,Sales cycle,41.488,42.0
+2025-10,East,Marketing,Leads generated,174.908,180.0
+2025-10,East,Marketing,Lead conversion,12.23,12.5
+2025-10,East,Marketing,Cost per lead,22.949,22.0
+2025-10,East,Finance,Gross margin,42.334,39.0
+2025-10,East,Finance,Opex ratio,21.173,23.0
+2025-10,East,Finance,Days sales outstanding,39.187,38.0
+2025-10,East,HR,Headcount,25.115,25.0
+2025-10,East,HR,Attrition,1.308,1.0
+2025-10,East,HR,Employee satisfaction,4.15,4.1
+2025-10,East,Operations,On-time delivery,97.432,95.0
+2025-10,East,Operations,Defect rate,2.048,1.8
+2025-10,East,Operations,Fulfilment time,3.151,3.0
+2025-10,West,Sales,Win rate,29.033,30.0
+2025-10,West,Sales,Avg deal size,14.918,15.0
+2025-10,West,Sales,Sales cycle,44.219,42.0
+2025-10,West,Marketing,Leads generated,172.552,180.0
+2025-10,West,Marketing,Lead conversion,12.397,12.5
+2025-10,West,Marketing,Cost per lead,21.719,22.0
+2025-10,West,Finance,Gross margin,40.965,39.0
+2025-10,West,Finance,Opex ratio,22.291,23.0
+2025-10,West,Finance,Days sales outstanding,39.109,38.0
+2025-10,West,HR,Headcount,26.333,25.0
+2025-10,West,HR,Attrition,1.254,1.0
+2025-10,West,HR,Employee satisfaction,4.17,4.1
+2025-10,West,Operations,On-time delivery,98.689,95.0
+2025-10,West,Operations,Defect rate,2.13,1.8
+2025-10,West,Operations,Fulfilment time,3.068,3.0
+2025-10,Central,Sales,Win rate,27.582,30.0
+2025-10,Central,Sales,Avg deal size,14.59,15.0
+2025-10,Central,Sales,Sales cycle,44.377,42.0
+2025-10,Central,Marketing,Leads generated,163.751,180.0
+2025-10,Central,Marketing,Lead conversion,11.386,12.5
+2025-10,Central,Marketing,Cost per lead,24.537,22.0
+2025-10,Central,Finance,Gross margin,37.364,39.0
+2025-10,Central,Finance,Opex ratio,24.487,23.0
+2025-10,Central,Finance,Days sales outstanding,40.318,38.0
+2025-10,Central,HR,Headcount,24.572,25.0
+2025-10,Central,HR,Attrition,1.294,1.0
+2025-10,Central,HR,Employee satisfaction,3.853,4.1
+2025-10,Central,Operations,On-time delivery,93.005,95.0
+2025-10,Central,Operations,Defect rate,2.132,1.8
+2025-10,Central,Operations,Fulfilment time,3.251,3.0
+2025-11,North,Sales,Win rate,28.118,30.0
+2025-11,North,Sales,Avg deal size,15.377,15.0
+2025-11,North,Sales,Sales cycle,44.215,42.0
+2025-11,North,Marketing,Leads generated,169.846,180.0
+2025-11,North,Marketing,Lead conversion,12.087,12.5
+2025-11,North,Marketing,Cost per lead,22.807,22.0
+2025-11,North,Finance,Gross margin,40.432,39.0
+2025-11,North,Finance,Opex ratio,23.724,23.0
+2025-11,North,Finance,Days sales outstanding,38.094,38.0
+2025-11,North,HR,Headcount,25.61,25.0
+2025-11,North,HR,Attrition,1.334,1.0
+2025-11,North,HR,Employee satisfaction,4.088,4.1
+2025-11,North,Operations,On-time delivery,97.359,95.0
+2025-11,North,Operations,Defect rate,2.194,1.8
+2025-11,North,Operations,Fulfilment time,3.431,3.0
+2025-11,South,Sales,Win rate,28.124,30.0
+2025-11,South,Sales,Avg deal size,14.429,15.0
+2025-11,South,Sales,Sales cycle,47.595,42.0
+2025-11,South,Marketing,Leads generated,157.364,180.0
+2025-11,South,Marketing,Lead conversion,11.773,12.5
+2025-11,South,Marketing,Cost per lead,24.456,22.0
+2025-11,South,Finance,Gross margin,38.984,39.0
+2025-11,South,Finance,Opex ratio,23.497,23.0
+2025-11,South,Finance,Days sales outstanding,44.237,38.0
+2025-11,South,HR,Headcount,24.802,25.0
+2025-11,South,HR,Attrition,1.426,1.0
+2025-11,South,HR,Employee satisfaction,3.768,4.1
+2025-11,South,Operations,On-time delivery,92.893,95.0
+2025-11,South,Operations,Defect rate,2.159,1.8
+2025-11,South,Operations,Fulfilment time,3.272,3.0
+2025-11,East,Sales,Win rate,28.175,30.0
+2025-11,East,Sales,Avg deal size,16.239,15.0
+2025-11,East,Sales,Sales cycle,41.605,42.0
+2025-11,East,Marketing,Leads generated,172.625,180.0
+2025-11,East,Marketing,Lead conversion,12.256,12.5
+2025-11,East,Marketing,Cost per lead,23.146,22.0
+2025-11,East,Finance,Gross margin,39.36,39.0
+2025-11,East,Finance,Opex ratio,21.987,23.0
+2025-11,East,Finance,Days sales outstanding,39.469,38.0
+2025-11,East,HR,Headcount,25.612,25.0
+2025-11,East,HR,Attrition,1.325,1.0
+2025-11,East,HR,Employee satisfaction,4.022,4.1
+2025-11,East,Operations,On-time delivery,97.285,95.0
+2025-11,East,Operations,Defect rate,2.124,1.8
+2025-11,East,Operations,Fulfilment time,3.207,3.0
+2025-11,West,Sales,Win rate,28.132,30.0
+2025-11,West,Sales,Avg deal size,15.559,15.0
+2025-11,West,Sales,Sales cycle,40.603,42.0
+2025-11,West,Marketing,Leads generated,172.317,180.0
+2025-11,West,Marketing,Lead conversion,12.525,12.5
+2025-11,West,Marketing,Cost per lead,22.849,22.0
+2025-11,West,Finance,Gross margin,41.033,39.0
+2025-11,West,Finance,Opex ratio,22.727,23.0
+2025-11,West,Finance,Days sales outstanding,36.576,38.0
+2025-11,West,HR,Headcount,25.282,25.0
+2025-11,West,HR,Attrition,1.305,1.0
+2025-11,West,HR,Employee satisfaction,4.394,4.1
+2025-11,West,Operations,On-time delivery,99.445,95.0
+2025-11,West,Operations,Defect rate,2.005,1.8
+2025-11,West,Operations,Fulfilment time,3.079,3.0
+2025-11,Central,Sales,Win rate,28.071,30.0
+2025-11,Central,Sales,Avg deal size,15.034,15.0
+2025-11,Central,Sales,Sales cycle,44.138,42.0
+2025-11,Central,Marketing,Leads generated,166.154,180.0
+2025-11,Central,Marketing,Lead conversion,12.009,12.5
+2025-11,Central,Marketing,Cost per lead,24.595,22.0
+2025-11,Central,Finance,Gross margin,37.875,39.0
+2025-11,Central,Finance,Opex ratio,23.647,23.0
+2025-11,Central,Finance,Days sales outstanding,41.055,38.0
+2025-11,Central,HR,Headcount,23.578,25.0
+2025-11,Central,HR,Attrition,1.296,1.0
+2025-11,Central,HR,Employee satisfaction,3.872,4.1
+2025-11,Central,Operations,On-time delivery,95.668,95.0
+2025-11,Central,Operations,Defect rate,2.236,1.8
+2025-11,Central,Operations,Fulfilment time,3.405,3.0
+2025-12,North,Sales,Win rate,27.388,30.0
+2025-12,North,Sales,Avg deal size,14.421,15.0
+2025-12,North,Sales,Sales cycle,42.753,42.0
+2025-12,North,Marketing,Leads generated,171.228,180.0
+2025-12,North,Marketing,Lead conversion,12.29,12.5
+2025-12,North,Marketing,Cost per lead,22.387,22.0
+2025-12,North,Finance,Gross margin,39.692,39.0
+2025-12,North,Finance,Opex ratio,21.836,23.0
+2025-12,North,Finance,Days sales outstanding,36.973,38.0
+2025-12,North,HR,Headcount,25.011,25.0
+2025-12,North,HR,Attrition,1.27,1.0
+2025-12,North,HR,Employee satisfaction,3.963,4.1
+2025-12,North,Operations,On-time delivery,90.634,95.0
+2025-12,North,Operations,Defect rate,2.156,1.8
+2025-12,North,Operations,Fulfilment time,3.089,3.0
+2025-12,South,Sales,Win rate,27.051,30.0
+2025-12,South,Sales,Avg deal size,13.974,15.0
+2025-12,South,Sales,Sales cycle,45.235,42.0
+2025-12,South,Marketing,Leads generated,169.619,180.0
+2025-12,South,Marketing,Lead conversion,11.578,12.5
+2025-12,South,Marketing,Cost per lead,23.896,22.0
+2025-12,South,Finance,Gross margin,38.875,39.0
+2025-12,South,Finance,Opex ratio,24.144,23.0
+2025-12,South,Finance,Days sales outstanding,43.979,38.0
+2025-12,South,HR,Headcount,23.144,25.0
+2025-12,South,HR,Attrition,1.465,1.0
+2025-12,South,HR,Employee satisfaction,3.91,4.1
+2025-12,South,Operations,On-time delivery,89.703,95.0
+2025-12,South,Operations,Defect rate,2.228,1.8
+2025-12,South,Operations,Fulfilment time,3.422,3.0
+2025-12,East,Sales,Win rate,28.645,30.0
+2025-12,East,Sales,Avg deal size,15.698,15.0
+2025-12,East,Sales,Sales cycle,41.424,42.0
+2025-12,East,Marketing,Leads generated,167.265,180.0
+2025-12,East,Marketing,Lead conversion,12.035,12.5
+2025-12,East,Marketing,Cost per lead,23.056,22.0
+2025-12,East,Finance,Gross margin,40.841,39.0
+2025-12,East,Finance,Opex ratio,22.409,23.0
+2025-12,East,Finance,Days sales outstanding,37.634,38.0
+2025-12,East,HR,Headcount,25.477,25.0
+2025-12,East,HR,Attrition,1.32,1.0
+2025-12,East,HR,Employee satisfaction,4.087,4.1
+2025-12,East,Operations,On-time delivery,96.354,95.0
+2025-12,East,Operations,Defect rate,2.095,1.8
+2025-12,East,Operations,Fulfilment time,3.231,3.0
+2025-12,West,Sales,Win rate,29.047,30.0
+2025-12,West,Sales,Avg deal size,16.07,15.0
+2025-12,West,Sales,Sales cycle,42.762,42.0
+2025-12,West,Marketing,Leads generated,171.946,180.0
+2025-12,West,Marketing,Lead conversion,11.705,12.5
+2025-12,West,Marketing,Cost per lead,22.902,22.0
+2025-12,West,Finance,Gross margin,40.618,39.0
+2025-12,West,Finance,Opex ratio,22.399,23.0
+2025-12,West,Finance,Days sales outstanding,38.4,38.0
+2025-12,West,HR,Headcount,26.569,25.0
+2025-12,West,HR,Attrition,1.306,1.0
+2025-12,West,HR,Employee satisfaction,4.284,4.1
+2025-12,West,Operations,On-time delivery,99.449,95.0
+2025-12,West,Operations,Defect rate,2.044,1.8
+2025-12,West,Operations,Fulfilment time,3.172,3.0
+2025-12,Central,Sales,Win rate,26.833,30.0
+2025-12,Central,Sales,Avg deal size,14.84,15.0
+2025-12,Central,Sales,Sales cycle,46.601,42.0
+2025-12,Central,Marketing,Leads generated,169.317,180.0
+2025-12,Central,Marketing,Lead conversion,11.71,12.5
+2025-12,Central,Marketing,Cost per lead,23.152,22.0
+2025-12,Central,Finance,Gross margin,37.714,39.0
+2025-12,Central,Finance,Opex ratio,23.241,23.0
+2025-12,Central,Finance,Days sales outstanding,40.031,38.0
+2025-12,Central,HR,Headcount,24.613,25.0
+2025-12,Central,HR,Attrition,1.367,1.0
+2025-12,Central,HR,Employee satisfaction,4.012,4.1
+2025-12,Central,Operations,On-time delivery,95.648,95.0
+2025-12,Central,Operations,Defect rate,2.131,1.8
+2025-12,Central,Operations,Fulfilment time,3.336,3.0
+2026-01,North,Sales,Win rate,28.663,30.0
+2026-01,North,Sales,Avg deal size,15.489,15.0
+2026-01,North,Sales,Sales cycle,43.036,42.0
+2026-01,North,Marketing,Leads generated,169.08,180.0
+2026-01,North,Marketing,Lead conversion,12.384,12.5
+2026-01,North,Marketing,Cost per lead,23.267,22.0
+2026-01,North,Finance,Gross margin,40.264,39.0
+2026-01,North,Finance,Opex ratio,22.688,23.0
+2026-01,North,Finance,Days sales outstanding,38.073,38.0
+2026-01,North,HR,Headcount,25.144,25.0
+2026-01,North,HR,Attrition,1.323,1.0
+2026-01,North,HR,Employee satisfaction,4.137,4.1
+2026-01,North,Operations,On-time delivery,98.431,95.0
+2026-01,North,Operations,Defect rate,2.127,1.8
+2026-01,North,Operations,Fulfilment time,3.344,3.0
+2026-01,South,Sales,Win rate,27.002,30.0
+2026-01,South,Sales,Avg deal size,14.744,15.0
+2026-01,South,Sales,Sales cycle,45.727,42.0
+2026-01,South,Marketing,Leads generated,158.078,180.0
+2026-01,South,Marketing,Lead conversion,11.223,12.5
+2026-01,South,Marketing,Cost per lead,23.501,22.0
+2026-01,South,Finance,Gross margin,38.456,39.0
+2026-01,South,Finance,Opex ratio,24.011,23.0
+2026-01,South,Finance,Days sales outstanding,44.001,38.0
+2026-01,South,HR,Headcount,24.188,25.0
+2026-01,South,HR,Attrition,1.419,1.0
+2026-01,South,HR,Employee satisfaction,3.963,4.1
+2026-01,South,Operations,On-time delivery,89.964,95.0
+2026-01,South,Operations,Defect rate,2.194,1.8
+2026-01,South,Operations,Fulfilment time,3.288,3.0
+2026-01,East,Sales,Win rate,28.875,30.0
+2026-01,East,Sales,Avg deal size,15.232,15.0
+2026-01,East,Sales,Sales cycle,42.385,42.0
+2026-01,East,Marketing,Leads generated,182.894,180.0
+2026-01,East,Marketing,Lead conversion,12.596,12.5
+2026-01,East,Marketing,Cost per lead,23.85,22.0
+2026-01,East,Finance,Gross margin,40.753,39.0
+2026-01,East,Finance,Opex ratio,22.255,23.0
+2026-01,East,Finance,Days sales outstanding,37.397,38.0
+2026-01,East,HR,Headcount,25.604,25.0
+2026-01,East,HR,Attrition,1.229,1.0
+2026-01,East,HR,Employee satisfaction,4.172,4.1
+2026-01,East,Operations,On-time delivery,96.934,95.0
+2026-01,East,Operations,Defect rate,2.007,1.8
+2026-01,East,Operations,Fulfilment time,3.015,3.0
+2026-01,West,Sales,Win rate,28.485,30.0
+2026-01,West,Sales,Avg deal size,15.476,15.0
+2026-01,West,Sales,Sales cycle,42.344,42.0
+2026-01,West,Marketing,Leads generated,170.052,180.0
+2026-01,West,Marketing,Lead conversion,12.376,12.5
+2026-01,West,Marketing,Cost per lead,22.298,22.0
+2026-01,West,Finance,Gross margin,43.032,39.0
+2026-01,West,Finance,Opex ratio,22.331,23.0
+2026-01,West,Finance,Days sales outstanding,38.718,38.0
+2026-01,West,HR,Headcount,25.434,25.0
+2026-01,West,HR,Attrition,1.273,1.0
+2026-01,West,HR,Employee satisfaction,4.132,4.1
+2026-01,West,Operations,On-time delivery,97.233,95.0
+2026-01,West,Operations,Defect rate,2.082,1.8
+2026-01,West,Operations,Fulfilment time,3.114,3.0
+2026-01,Central,Sales,Win rate,28.455,30.0
+2026-01,Central,Sales,Avg deal size,14.746,15.0
+2026-01,Central,Sales,Sales cycle,45.645,42.0
+2026-01,Central,Marketing,Leads generated,161.951,180.0
+2026-01,Central,Marketing,Lead conversion,11.418,12.5
+2026-01,Central,Marketing,Cost per lead,23.959,22.0
+2026-01,Central,Finance,Gross margin,38.029,39.0
+2026-01,Central,Finance,Opex ratio,24.322,23.0
+2026-01,Central,Finance,Days sales outstanding,39.417,38.0
+2026-01,Central,HR,Headcount,23.898,25.0
+2026-01,Central,HR,Attrition,1.414,1.0
+2026-01,Central,HR,Employee satisfaction,3.804,4.1
+2026-01,Central,Operations,On-time delivery,92.47,95.0
+2026-01,Central,Operations,Defect rate,2.21,1.8
+2026-01,Central,Operations,Fulfilment time,3.389,3.0
+2026-02,North,Sales,Win rate,27.638,30.0
+2026-02,North,Sales,Avg deal size,16.027,15.0
+2026-02,North,Sales,Sales cycle,43.082,42.0
+2026-02,North,Marketing,Leads generated,164.682,180.0
+2026-02,North,Marketing,Lead conversion,12.357,12.5
+2026-02,North,Marketing,Cost per lead,22.463,22.0
+2026-02,North,Finance,Gross margin,40.032,39.0
+2026-02,North,Finance,Opex ratio,23.208,23.0
+2026-02,North,Finance,Days sales outstanding,37.944,38.0
+2026-02,North,HR,Headcount,24.816,25.0
+2026-02,North,HR,Attrition,1.31,1.0
+2026-02,North,HR,Employee satisfaction,4.184,4.1
+2026-02,North,Operations,On-time delivery,93.758,95.0
+2026-02,North,Operations,Defect rate,2.197,1.8
+2026-02,North,Operations,Fulfilment time,3.254,3.0
+2026-02,South,Sales,Win rate,26.565,30.0
+2026-02,South,Sales,Avg deal size,14.688,15.0
+2026-02,South,Sales,Sales cycle,46.093,42.0
+2026-02,South,Marketing,Leads generated,170.975,180.0
+2026-02,South,Marketing,Lead conversion,11.884,12.5
+2026-02,South,Marketing,Cost per lead,24.383,22.0
+2026-02,South,Finance,Gross margin,38.319,39.0
+2026-02,South,Finance,Opex ratio,24.149,23.0
+2026-02,South,Finance,Days sales outstanding,39.753,38.0
+2026-02,South,HR,Headcount,24.891,25.0
+2026-02,South,HR,Attrition,1.435,1.0
+2026-02,South,HR,Employee satisfaction,4.102,4.1
+2026-02,South,Operations,On-time delivery,91.745,95.0
+2026-02,South,Operations,Defect rate,2.181,1.8
+2026-02,South,Operations,Fulfilment time,3.363,3.0
+2026-02,East,Sales,Win rate,29.494,30.0
+2026-02,East,Sales,Avg deal size,15.665,15.0
+2026-02,East,Sales,Sales cycle,43.875,42.0
+2026-02,East,Marketing,Leads generated,176.036,180.0
+2026-02,East,Marketing,Lead conversion,12.629,12.5
+2026-02,East,Marketing,Cost per lead,23.953,22.0
+2026-02,East,Finance,Gross margin,41.921,39.0
+2026-02,East,Finance,Opex ratio,22.649,23.0
+2026-02,East,Finance,Days sales outstanding,36.567,38.0
+2026-02,East,HR,Headcount,26.113,25.0
+2026-02,East,HR,Attrition,1.323,1.0
+2026-02,East,HR,Employee satisfaction,4.165,4.1
+2026-02,East,Operations,On-time delivery,101.052,95.0
+2026-02,East,Operations,Defect rate,1.966,1.8
+2026-02,East,Operations,Fulfilment time,3.099,3.0
+2026-02,West,Sales,Win rate,28.598,30.0
+2026-02,West,Sales,Avg deal size,15.888,15.0
+2026-02,West,Sales,Sales cycle,41.317,42.0
+2026-02,West,Marketing,Leads generated,173.583,180.0
+2026-02,West,Marketing,Lead conversion,12.87,12.5
+2026-02,West,Marketing,Cost per lead,21.173,22.0
+2026-02,West,Finance,Gross margin,41.61,39.0
+2026-02,West,Finance,Opex ratio,22.699,23.0
+2026-02,West,Finance,Days sales outstanding,37.376,38.0
+2026-02,West,HR,Headcount,25.433,25.0
+2026-02,West,HR,Attrition,1.269,1.0
+2026-02,West,HR,Employee satisfaction,4.165,4.1
+2026-02,West,Operations,On-time delivery,97.748,95.0
+2026-02,West,Operations,Defect rate,2.071,1.8
+2026-02,West,Operations,Fulfilment time,3.119,3.0
+2026-02,Central,Sales,Win rate,29.707,30.0
+2026-02,Central,Sales,Avg deal size,15.294,15.0
+2026-02,Central,Sales,Sales cycle,45.22,42.0
+2026-02,Central,Marketing,Leads generated,169.993,180.0
+2026-02,Central,Marketing,Lead conversion,12.242,12.5
+2026-02,Central,Marketing,Cost per lead,24.189,22.0
+2026-02,Central,Finance,Gross margin,38.909,39.0
+2026-02,Central,Finance,Opex ratio,23.018,23.0
+2026-02,Central,Finance,Days sales outstanding,41.939,38.0
+2026-02,Central,HR,Headcount,24.539,25.0
+2026-02,Central,HR,Attrition,1.361,1.0
+2026-02,Central,HR,Employee satisfaction,4.121,4.1
+2026-02,Central,Operations,On-time delivery,94.523,95.0
+2026-02,Central,Operations,Defect rate,2.254,1.8
+2026-02,Central,Operations,Fulfilment time,3.303,3.0
+2026-03,North,Sales,Win rate,28.658,30.0
+2026-03,North,Sales,Avg deal size,15.252,15.0
+2026-03,North,Sales,Sales cycle,45.868,42.0
+2026-03,North,Marketing,Leads generated,167.334,180.0
+2026-03,North,Marketing,Lead conversion,12.096,12.5
+2026-03,North,Marketing,Cost per lead,22.138,22.0
+2026-03,North,Finance,Gross margin,39.447,39.0
+2026-03,North,Finance,Opex ratio,21.891,23.0
+2026-03,North,Finance,Days sales outstanding,37.875,38.0
+2026-03,North,HR,Headcount,26.075,25.0
+2026-03,North,HR,Attrition,1.362,1.0
+2026-03,North,HR,Employee satisfaction,4.055,4.1
+2026-03,North,Operations,On-time delivery,94.329,95.0
+2026-03,North,Operations,Defect rate,2.098,1.8
+2026-03,North,Operations,Fulfilment time,3.348,3.0
+2026-03,South,Sales,Win rate,27.377,30.0
+2026-03,South,Sales,Avg deal size,13.955,15.0
+2026-03,South,Sales,Sales cycle,46.226,42.0
+2026-03,South,Marketing,Leads generated,166.064,180.0
+2026-03,South,Marketing,Lead conversion,11.857,12.5
+2026-03,South,Marketing,Cost per lead,23.851,22.0
+2026-03,South,Finance,Gross margin,37.359,39.0
+2026-03,South,Finance,Opex ratio,24.219,23.0
+2026-03,South,Finance,Days sales outstanding,43.309,38.0
+2026-03,South,HR,Headcount,23.969,25.0
+2026-03,South,HR,Attrition,1.364,1.0
+2026-03,South,HR,Employee satisfaction,3.847,4.1
+2026-03,South,Operations,On-time delivery,90.805,95.0
+2026-03,South,Operations,Defect rate,2.242,1.8
+2026-03,South,Operations,Fulfilment time,3.293,3.0
+2026-03,East,Sales,Win rate,28.736,30.0
+2026-03,East,Sales,Avg deal size,15.605,15.0
+2026-03,East,Sales,Sales cycle,41.966,42.0
+2026-03,East,Marketing,Leads generated,177.959,180.0
+2026-03,East,Marketing,Lead conversion,12.457,12.5
+2026-03,East,Marketing,Cost per lead,22.726,22.0
+2026-03,East,Finance,Gross margin,39.693,39.0
+2026-03,East,Finance,Opex ratio,22.373,23.0
+2026-03,East,Finance,Days sales outstanding,37.581,38.0
+2026-03,East,HR,Headcount,27.077,25.0
+2026-03,East,HR,Attrition,1.336,1.0
+2026-03,East,HR,Employee satisfaction,4.155,4.1
+2026-03,East,Operations,On-time delivery,101.145,95.0
+2026-03,East,Operations,Defect rate,1.988,1.8
+2026-03,East,Operations,Fulfilment time,3.05,3.0
+2026-03,West,Sales,Win rate,29.131,30.0
+2026-03,West,Sales,Avg deal size,15.838,15.0
+2026-03,West,Sales,Sales cycle,40.756,42.0
+2026-03,West,Marketing,Leads generated,178.179,180.0
+2026-03,West,Marketing,Lead conversion,12.843,12.5
+2026-03,West,Marketing,Cost per lead,20.961,22.0
+2026-03,West,Finance,Gross margin,39.966,39.0
+2026-03,West,Finance,Opex ratio,20.776,23.0
+2026-03,West,Finance,Days sales outstanding,38.626,38.0
+2026-03,West,HR,Headcount,25.406,25.0
+2026-03,West,HR,Attrition,1.262,1.0
+2026-03,West,HR,Employee satisfaction,4.146,4.1
+2026-03,West,Operations,On-time delivery,99.637,95.0
+2026-03,West,Operations,Defect rate,2.041,1.8
+2026-03,West,Operations,Fulfilment time,3.121,3.0
+2026-03,Central,Sales,Win rate,27.796,30.0
+2026-03,Central,Sales,Avg deal size,15.445,15.0
+2026-03,Central,Sales,Sales cycle,43.682,42.0
+2026-03,Central,Marketing,Leads generated,168.844,180.0
+2026-03,Central,Marketing,Lead conversion,11.766,12.5
+2026-03,Central,Marketing,Cost per lead,22.806,22.0
+2026-03,Central,Finance,Gross margin,39.748,39.0
+2026-03,Central,Finance,Opex ratio,24.445,23.0
+2026-03,Central,Finance,Days sales outstanding,38.756,38.0
+2026-03,Central,HR,Headcount,26.062,25.0
+2026-03,Central,HR,Attrition,1.347,1.0
+2026-03,Central,HR,Employee satisfaction,3.988,4.1
+2026-03,Central,Operations,On-time delivery,88.282,95.0
+2026-03,Central,Operations,Defect rate,2.187,1.8
+2026-03,Central,Operations,Fulfilment time,3.296,3.0
+2026-04,North,Sales,Win rate,28.409,30.0
+2026-04,North,Sales,Avg deal size,15.592,15.0
+2026-04,North,Sales,Sales cycle,42.976,42.0
+2026-04,North,Marketing,Leads generated,175.125,180.0
+2026-04,North,Marketing,Lead conversion,11.986,12.5
+2026-04,North,Marketing,Cost per lead,21.847,22.0
+2026-04,North,Finance,Gross margin,40.335,39.0
+2026-04,North,Finance,Opex ratio,22.878,23.0
+2026-04,North,Finance,Days sales outstanding,39.196,38.0
+2026-04,North,HR,Headcount,25.472,25.0
+2026-04,North,HR,Attrition,1.29,1.0
+2026-04,North,HR,Employee satisfaction,4.133,4.1
+2026-04,North,Operations,On-time delivery,96.809,95.0
+2026-04,North,Operations,Defect rate,2.057,1.8
+2026-04,North,Operations,Fulfilment time,3.22,3.0
+2026-04,South,Sales,Win rate,27.384,30.0
+2026-04,South,Sales,Avg deal size,14.372,15.0
+2026-04,South,Sales,Sales cycle,44.677,42.0
+2026-04,South,Marketing,Leads generated,169.525,180.0
+2026-04,South,Marketing,Lead conversion,12.148,12.5
+2026-04,South,Marketing,Cost per lead,22.397,22.0
+2026-04,South,Finance,Gross margin,38.366,39.0
+2026-04,South,Finance,Opex ratio,23.821,23.0
+2026-04,South,Finance,Days sales outstanding,43.798,38.0
+2026-04,South,HR,Headcount,24.682,25.0
+2026-04,South,HR,Attrition,1.413,1.0
+2026-04,South,HR,Employee satisfaction,3.925,4.1
+2026-04,South,Operations,On-time delivery,93.642,95.0
+2026-04,South,Operations,Defect rate,2.165,1.8
+2026-04,South,Operations,Fulfilment time,3.237,3.0
+2026-04,East,Sales,Win rate,28.257,30.0
+2026-04,East,Sales,Avg deal size,16.57,15.0
+2026-04,East,Sales,Sales cycle,42.294,42.0
+2026-04,East,Marketing,Leads generated,175.929,180.0
+2026-04,East,Marketing,Lead conversion,12.606,12.5
+2026-04,East,Marketing,Cost per lead,22.086,22.0
+2026-04,East,Finance,Gross margin,40.859,39.0
+2026-04,East,Finance,Opex ratio,22.192,23.0
+2026-04,East,Finance,Days sales outstanding,36.901,38.0
+2026-04,East,HR,Headcount,25.657,25.0
+2026-04,East,HR,Attrition,1.318,1.0
+2026-04,East,HR,Employee satisfaction,4.269,4.1
+2026-04,East,Operations,On-time delivery,96.794,95.0
+2026-04,East,Operations,Defect rate,2.161,1.8
+2026-04,East,Operations,Fulfilment time,3.092,3.0
+2026-04,West,Sales,Win rate,28.341,30.0
+2026-04,West,Sales,Avg deal size,16.057,15.0
+2026-04,West,Sales,Sales cycle,42.59,42.0
+2026-04,West,Marketing,Leads generated,180.008,180.0
+2026-04,West,Marketing,Lead conversion,12.251,12.5
+2026-04,West,Marketing,Cost per lead,22.554,22.0
+2026-04,West,Finance,Gross margin,41.908,39.0
+2026-04,West,Finance,Opex ratio,22.05,23.0
+2026-04,West,Finance,Days sales outstanding,37.544,38.0
+2026-04,West,HR,Headcount,26.383,25.0
+2026-04,West,HR,Attrition,1.349,1.0
+2026-04,West,HR,Employee satisfaction,4.203,4.1
+2026-04,West,Operations,On-time delivery,100.989,95.0
+2026-04,West,Operations,Defect rate,2.122,1.8
+2026-04,West,Operations,Fulfilment time,3.162,3.0
+2026-04,Central,Sales,Win rate,27.303,30.0
+2026-04,Central,Sales,Avg deal size,14.904,15.0
+2026-04,Central,Sales,Sales cycle,44.219,42.0
+2026-04,Central,Marketing,Leads generated,163.094,180.0
+2026-04,Central,Marketing,Lead conversion,11.798,12.5
+2026-04,Central,Marketing,Cost per lead,23.874,22.0
+2026-04,Central,Finance,Gross margin,39.441,39.0
+2026-04,Central,Finance,Opex ratio,23.965,23.0
+2026-04,Central,Finance,Days sales outstanding,40.256,38.0
+2026-04,Central,HR,Headcount,24.313,25.0
+2026-04,Central,HR,Attrition,1.373,1.0
+2026-04,Central,HR,Employee satisfaction,3.851,4.1
+2026-04,Central,Operations,On-time delivery,97.703,95.0
+2026-04,Central,Operations,Defect rate,2.169,1.8
+2026-04,Central,Operations,Fulfilment time,3.441,3.0
+2026-05,North,Sales,Win rate,27.813,30.0
+2026-05,North,Sales,Avg deal size,15.081,15.0
+2026-05,North,Sales,Sales cycle,42.561,42.0
+2026-05,North,Marketing,Leads generated,173.433,180.0
+2026-05,North,Marketing,Lead conversion,11.779,12.5
+2026-05,North,Marketing,Cost per lead,21.698,22.0
+2026-05,North,Finance,Gross margin,40.884,39.0
+2026-05,North,Finance,Opex ratio,21.969,23.0
+2026-05,North,Finance,Days sales outstanding,39.26,38.0
+2026-05,North,HR,Headcount,26.515,25.0
+2026-05,North,HR,Attrition,1.268,1.0
+2026-05,North,HR,Employee satisfaction,4.11,4.1
+2026-05,North,Operations,On-time delivery,101.87,95.0
+2026-05,North,Operations,Defect rate,2.183,1.8
+2026-05,North,Operations,Fulfilment time,3.067,3.0
+2026-05,South,Sales,Win rate,27.898,30.0
+2026-05,South,Sales,Avg deal size,15.451,15.0
+2026-05,South,Sales,Sales cycle,42.412,42.0
+2026-05,South,Marketing,Leads generated,169.428,180.0
+2026-05,South,Marketing,Lead conversion,12.088,12.5
+2026-05,South,Marketing,Cost per lead,23.128,22.0
+2026-05,South,Finance,Gross margin,38.305,39.0
+2026-05,South,Finance,Opex ratio,23.879,23.0
+2026-05,South,Finance,Days sales outstanding,40.837,38.0
+2026-05,South,HR,Headcount,24.918,25.0
+2026-05,South,HR,Attrition,1.499,1.0
+2026-05,South,HR,Employee satisfaction,4.004,4.1
+2026-05,South,Operations,On-time delivery,90.614,95.0
+2026-05,South,Operations,Defect rate,2.295,1.8
+2026-05,South,Operations,Fulfilment time,3.317,3.0
+2026-05,East,Sales,Win rate,29.656,30.0
+2026-05,East,Sales,Avg deal size,15.401,15.0
+2026-05,East,Sales,Sales cycle,42.042,42.0
+2026-05,East,Marketing,Leads generated,182.336,180.0
+2026-05,East,Marketing,Lead conversion,12.029,12.5
+2026-05,East,Marketing,Cost per lead,21.185,22.0
+2026-05,East,Finance,Gross margin,39.203,39.0
+2026-05,East,Finance,Opex ratio,22.248,23.0
+2026-05,East,Finance,Days sales outstanding,38.009,38.0
+2026-05,East,HR,Headcount,25.494,25.0
+2026-05,East,HR,Attrition,1.301,1.0
+2026-05,East,HR,Employee satisfaction,4.229,4.1
+2026-05,East,Operations,On-time delivery,104.198,95.0
+2026-05,East,Operations,Defect rate,2.021,1.8
+2026-05,East,Operations,Fulfilment time,3.135,3.0
+2026-05,West,Sales,Win rate,29.229,30.0
+2026-05,West,Sales,Avg deal size,16.527,15.0
+2026-05,West,Sales,Sales cycle,42.183,42.0
+2026-05,West,Marketing,Leads generated,174.428,180.0
+2026-05,West,Marketing,Lead conversion,12.703,12.5
+2026-05,West,Marketing,Cost per lead,21.639,22.0
+2026-05,West,Finance,Gross margin,40.645,39.0
+2026-05,West,Finance,Opex ratio,21.975,23.0
+2026-05,West,Finance,Days sales outstanding,37.264,38.0
+2026-05,West,HR,Headcount,25.531,25.0
+2026-05,West,HR,Attrition,1.262,1.0
+2026-05,West,HR,Employee satisfaction,4.377,4.1
+2026-05,West,Operations,On-time delivery,102.895,95.0
+2026-05,West,Operations,Defect rate,2.055,1.8
+2026-05,West,Operations,Fulfilment time,3.048,3.0
+2026-05,Central,Sales,Win rate,28.087,30.0
+2026-05,Central,Sales,Avg deal size,14.941,15.0
+2026-05,Central,Sales,Sales cycle,43.005,42.0
+2026-05,Central,Marketing,Leads generated,172.064,180.0
+2026-05,Central,Marketing,Lead conversion,11.65,12.5
+2026-05,Central,Marketing,Cost per lead,24.047,22.0
+2026-05,Central,Finance,Gross margin,39.826,39.0
+2026-05,Central,Finance,Opex ratio,23.604,23.0
+2026-05,Central,Finance,Days sales outstanding,39.254,38.0
+2026-05,Central,HR,Headcount,24.903,25.0
+2026-05,Central,HR,Attrition,1.336,1.0
+2026-05,Central,HR,Employee satisfaction,3.992,4.1
+2026-05,Central,Operations,On-time delivery,92.69,95.0
+2026-05,Central,Operations,Defect rate,2.264,1.8
+2026-05,Central,Operations,Fulfilment time,3.187,3.0
+2026-06,North,Sales,Win rate,29.973,30.0
+2026-06,North,Sales,Avg deal size,15.752,15.0
+2026-06,North,Sales,Sales cycle,41.807,42.0
+2026-06,North,Marketing,Leads generated,180.517,180.0
+2026-06,North,Marketing,Lead conversion,12.4,12.5
+2026-06,North,Marketing,Cost per lead,21.884,22.0
+2026-06,North,Finance,Gross margin,40.819,39.0
+2026-06,North,Finance,Opex ratio,22.166,23.0
+2026-06,North,Finance,Days sales outstanding,37.428,38.0
+2026-06,North,HR,Headcount,25.595,25.0
+2026-06,North,HR,Attrition,1.327,1.0
+2026-06,North,HR,Employee satisfaction,4.133,4.1
+2026-06,North,Operations,On-time delivery,98.168,95.0
+2026-06,North,Operations,Defect rate,2.17,1.8
+2026-06,North,Operations,Fulfilment time,3.159,3.0
+2026-06,South,Sales,Win rate,27.5,30.0
+2026-06,South,Sales,Avg deal size,14.437,15.0
+2026-06,South,Sales,Sales cycle,44.638,42.0
+2026-06,South,Marketing,Leads generated,166.67,180.0
+2026-06,South,Marketing,Lead conversion,11.759,12.5
+2026-06,South,Marketing,Cost per lead,23.809,22.0
+2026-06,South,Finance,Gross margin,39.891,39.0
+2026-06,South,Finance,Opex ratio,23.353,23.0
+2026-06,South,Finance,Days sales outstanding,41.935,38.0
+2026-06,South,HR,Headcount,24.76,25.0
+2026-06,South,HR,Attrition,1.474,1.0
+2026-06,South,HR,Employee satisfaction,4.034,4.1
+2026-06,South,Operations,On-time delivery,91.316,95.0
+2026-06,South,Operations,Defect rate,2.23,1.8
+2026-06,South,Operations,Fulfilment time,3.22,3.0
+2026-06,East,Sales,Win rate,29.592,30.0
+2026-06,East,Sales,Avg deal size,15.927,15.0
+2026-06,East,Sales,Sales cycle,42.14,42.0
+2026-06,East,Marketing,Leads generated,183.384,180.0
+2026-06,East,Marketing,Lead conversion,12.516,12.5
+2026-06,East,Marketing,Cost per lead,22.084,22.0
+2026-06,East,Finance,Gross margin,40.507,39.0
+2026-06,East,Finance,Opex ratio,21.828,23.0
+2026-06,East,Finance,Days sales outstanding,37.167,38.0
+2026-06,East,HR,Headcount,26.151,25.0
+2026-06,East,HR,Attrition,1.286,1.0
+2026-06,East,HR,Employee satisfaction,4.013,4.1
+2026-06,East,Operations,On-time delivery,101.948,95.0
+2026-06,East,Operations,Defect rate,2.123,1.8
+2026-06,East,Operations,Fulfilment time,2.924,3.0
+2026-06,West,Sales,Win rate,29.822,30.0
+2026-06,West,Sales,Avg deal size,16.288,15.0
+2026-06,West,Sales,Sales cycle,42.338,42.0
+2026-06,West,Marketing,Leads generated,183.004,180.0
+2026-06,West,Marketing,Lead conversion,12.576,12.5
+2026-06,West,Marketing,Cost per lead,21.345,22.0
+2026-06,West,Finance,Gross margin,43.541,39.0
+2026-06,West,Finance,Opex ratio,21.912,23.0
+2026-06,West,Finance,Days sales outstanding,38.673,38.0
+2026-06,West,HR,Headcount,26.321,25.0
+2026-06,West,HR,Attrition,1.309,1.0
+2026-06,West,HR,Employee satisfaction,4.364,4.1
+2026-06,West,Operations,On-time delivery,102.899,95.0
+2026-06,West,Operations,Defect rate,2.003,1.8
+2026-06,West,Operations,Fulfilment time,3.27,3.0
+2026-06,Central,Sales,Win rate,28.252,30.0
+2026-06,Central,Sales,Avg deal size,14.943,15.0
+2026-06,Central,Sales,Sales cycle,44.626,42.0
+2026-06,Central,Marketing,Leads generated,163.135,180.0
+2026-06,Central,Marketing,Lead conversion,12.345,12.5
+2026-06,Central,Marketing,Cost per lead,22.88,22.0
+2026-06,Central,Finance,Gross margin,39.749,39.0
+2026-06,Central,Finance,Opex ratio,23.223,23.0
+2026-06,Central,Finance,Days sales outstanding,37.691,38.0
+2026-06,Central,HR,Headcount,24.744,25.0
+2026-06,Central,HR,Attrition,1.399,1.0
+2026-06,Central,HR,Employee satisfaction,3.977,4.1
+2026-06,Central,Operations,On-time delivery,96.194,95.0
+2026-06,Central,Operations,Defect rate,2.248,1.8
+2026-06,Central,Operations,Fulfilment time,3.41,3.0
+2026-07,North,Sales,Win rate,28.425,30.0
+2026-07,North,Sales,Avg deal size,15.943,15.0
+2026-07,North,Sales,Sales cycle,43.545,42.0
+2026-07,North,Marketing,Leads generated,178.312,180.0
+2026-07,North,Marketing,Lead conversion,12.627,12.5
+2026-07,North,Marketing,Cost per lead,22.764,22.0
+2026-07,North,Finance,Gross margin,39.881,39.0
+2026-07,North,Finance,Opex ratio,22.609,23.0
+2026-07,North,Finance,Days sales outstanding,37.512,38.0
+2026-07,North,HR,Headcount,25.975,25.0
+2026-07,North,HR,Attrition,1.308,1.0
+2026-07,North,HR,Employee satisfaction,4.333,4.1
+2026-07,North,Operations,On-time delivery,100.963,95.0
+2026-07,North,Operations,Defect rate,2.161,1.8
+2026-07,North,Operations,Fulfilment time,3.106,3.0
+2026-07,South,Sales,Win rate,28.211,30.0
+2026-07,South,Sales,Avg deal size,14.6,15.0
+2026-07,South,Sales,Sales cycle,43.641,42.0
+2026-07,South,Marketing,Leads generated,162.804,180.0
+2026-07,South,Marketing,Lead conversion,12.145,12.5
+2026-07,South,Marketing,Cost per lead,22.991,22.0
+2026-07,South,Finance,Gross margin,40.169,39.0
+2026-07,South,Finance,Opex ratio,23.963,23.0
+2026-07,South,Finance,Days sales outstanding,43.761,38.0
+2026-07,South,HR,Headcount,24.583,25.0
+2026-07,South,HR,Attrition,1.523,1.0
+2026-07,South,HR,Employee satisfaction,4.148,4.1
+2026-07,South,Operations,On-time delivery,92.289,95.0
+2026-07,South,Operations,Defect rate,2.239,1.8
+2026-07,South,Operations,Fulfilment time,3.232,3.0
+2026-07,East,Sales,Win rate,29.469,30.0
+2026-07,East,Sales,Avg deal size,16.307,15.0
+2026-07,East,Sales,Sales cycle,42.254,42.0
+2026-07,East,Marketing,Leads generated,185.99,180.0
+2026-07,East,Marketing,Lead conversion,12.767,12.5
+2026-07,East,Marketing,Cost per lead,22.302,22.0
+2026-07,East,Finance,Gross margin,43.172,39.0
+2026-07,East,Finance,Opex ratio,22.598,23.0
+2026-07,East,Finance,Days sales outstanding,38.162,38.0
+2026-07,East,HR,Headcount,27.092,25.0
+2026-07,East,HR,Attrition,1.336,1.0
+2026-07,East,HR,Employee satisfaction,4.138,4.1
+2026-07,East,Operations,On-time delivery,98.382,95.0
+2026-07,East,Operations,Defect rate,2.099,1.8
+2026-07,East,Operations,Fulfilment time,3.19,3.0
+2026-07,West,Sales,Win rate,29.336,30.0
+2026-07,West,Sales,Avg deal size,15.421,15.0
+2026-07,West,Sales,Sales cycle,41.371,42.0
+2026-07,West,Marketing,Leads generated,178.767,180.0
+2026-07,West,Marketing,Lead conversion,13.126,12.5
+2026-07,West,Marketing,Cost per lead,20.203,22.0
+2026-07,West,Finance,Gross margin,42.739,39.0
+2026-07,West,Finance,Opex ratio,22.0,23.0
+2026-07,West,Finance,Days sales outstanding,34.193,38.0
+2026-07,West,HR,Headcount,25.894,25.0
+2026-07,West,HR,Attrition,1.274,1.0
+2026-07,West,HR,Employee satisfaction,4.342,4.1
+2026-07,West,Operations,On-time delivery,101.608,95.0
+2026-07,West,Operations,Defect rate,2.103,1.8
+2026-07,West,Operations,Fulfilment time,3.077,3.0
+2026-07,Central,Sales,Win rate,27.651,30.0
+2026-07,Central,Sales,Avg deal size,15.739,15.0
+2026-07,Central,Sales,Sales cycle,44.487,42.0
+2026-07,Central,Marketing,Leads generated,167.715,180.0
+2026-07,Central,Marketing,Lead conversion,12.145,12.5
+2026-07,Central,Marketing,Cost per lead,22.955,22.0
+2026-07,Central,Finance,Gross margin,39.268,39.0
+2026-07,Central,Finance,Opex ratio,22.657,23.0
+2026-07,Central,Finance,Days sales outstanding,37.831,38.0
+2026-07,Central,HR,Headcount,24.523,25.0
+2026-07,Central,HR,Attrition,1.319,1.0
+2026-07,Central,HR,Employee satisfaction,3.879,4.1
+2026-07,Central,Operations,On-time delivery,97.131,95.0
+2026-07,Central,Operations,Defect rate,2.212,1.8
+2026-07,Central,Operations,Fulfilment time,3.244,3.0
+2026-08,North,Sales,Win rate,28.349,30.0
+2026-08,North,Sales,Avg deal size,15.342,15.0
+2026-08,North,Sales,Sales cycle,44.378,42.0
+2026-08,North,Marketing,Leads generated,173.201,180.0
+2026-08,North,Marketing,Lead conversion,12.636,12.5
+2026-08,North,Marketing,Cost per lead,22.426,22.0
+2026-08,North,Finance,Gross margin,41.428,39.0
+2026-08,North,Finance,Opex ratio,21.936,23.0
+2026-08,North,Finance,Days sales outstanding,37.722,38.0
+2026-08,North,HR,Headcount,25.826,25.0
+2026-08,North,HR,Attrition,1.287,1.0
+2026-08,North,HR,Employee satisfaction,4.336,4.1
+2026-08,North,Operations,On-time delivery,97.265,95.0
+2026-08,North,Operations,Defect rate,2.145,1.8
+2026-08,North,Operations,Fulfilment time,3.297,3.0
+2026-08,South,Sales,Win rate,29.012,30.0
+2026-08,South,Sales,Avg deal size,14.829,15.0
+2026-08,South,Sales,Sales cycle,45.004,42.0
+2026-08,South,Marketing,Leads generated,174.362,180.0
+2026-08,South,Marketing,Lead conversion,11.37,12.5
+2026-08,South,Marketing,Cost per lead,24.402,22.0
+2026-08,South,Finance,Gross margin,39.943,39.0
+2026-08,South,Finance,Opex ratio,23.006,23.0
+2026-08,South,Finance,Days sales outstanding,42.511,38.0
+2026-08,South,HR,Headcount,23.566,25.0
+2026-08,South,HR,Attrition,1.503,1.0
+2026-08,South,HR,Employee satisfaction,4.202,4.1
+2026-08,South,Operations,On-time delivery,95.056,95.0
+2026-08,South,Operations,Defect rate,2.304,1.8
+2026-08,South,Operations,Fulfilment time,3.341,3.0
+2026-08,East,Sales,Win rate,28.738,30.0
+2026-08,East,Sales,Avg deal size,16.12,15.0
+2026-08,East,Sales,Sales cycle,39.337,42.0
+2026-08,East,Marketing,Leads generated,172.337,180.0
+2026-08,East,Marketing,Lead conversion,12.809,12.5
+2026-08,East,Marketing,Cost per lead,22.074,22.0
+2026-08,East,Finance,Gross margin,41.624,39.0
+2026-08,East,Finance,Opex ratio,21.672,23.0
+2026-08,East,Finance,Days sales outstanding,35.561,38.0
+2026-08,East,HR,Headcount,26.951,25.0
+2026-08,East,HR,Attrition,1.295,1.0
+2026-08,East,HR,Employee satisfaction,4.261,4.1
+2026-08,East,Operations,On-time delivery,109.272,95.0
+2026-08,East,Operations,Defect rate,2.108,1.8
+2026-08,East,Operations,Fulfilment time,3.078,3.0
+2026-08,West,Sales,Win rate,31.275,30.0
+2026-08,West,Sales,Avg deal size,16.177,15.0
+2026-08,West,Sales,Sales cycle,40.682,42.0
+2026-08,West,Marketing,Leads generated,188.104,180.0
+2026-08,West,Marketing,Lead conversion,12.709,12.5
+2026-08,West,Marketing,Cost per lead,21.044,22.0
+2026-08,West,Finance,Gross margin,41.803,39.0
+2026-08,West,Finance,Opex ratio,21.538,23.0
+2026-08,West,Finance,Days sales outstanding,37.729,38.0
+2026-08,West,HR,Headcount,27.39,25.0
+2026-08,West,HR,Attrition,1.246,1.0
+2026-08,West,HR,Employee satisfaction,4.449,4.1
+2026-08,West,Operations,On-time delivery,100.598,95.0
+2026-08,West,Operations,Defect rate,2.052,1.8
+2026-08,West,Operations,Fulfilment time,2.828,3.0
+2026-08,Central,Sales,Win rate,29.441,30.0
+2026-08,Central,Sales,Avg deal size,15.429,15.0
+2026-08,Central,Sales,Sales cycle,43.781,42.0
+2026-08,Central,Marketing,Leads generated,171.355,180.0
+2026-08,Central,Marketing,Lead conversion,12.348,12.5
+2026-08,Central,Marketing,Cost per lead,22.987,22.0
+2026-08,Central,Finance,Gross margin,37.036,39.0
+2026-08,Central,Finance,Opex ratio,23.139,23.0
+2026-08,Central,Finance,Days sales outstanding,39.221,38.0
+2026-08,Central,HR,Headcount,25.258,25.0
+2026-08,Central,HR,Attrition,1.365,1.0
+2026-08,Central,HR,Employee satisfaction,4.176,4.1
+2026-08,Central,Operations,On-time delivery,94.843,95.0
+2026-08,Central,Operations,Defect rate,2.323,1.8
+2026-08,Central,Operations,Fulfilment time,3.266,3.0
+2026-09,North,Sales,Win rate,28.751,30.0
+2026-09,North,Sales,Avg deal size,15.742,15.0
+2026-09,North,Sales,Sales cycle,40.482,42.0
+2026-09,North,Marketing,Leads generated,176.972,180.0
+2026-09,North,Marketing,Lead conversion,12.24,12.5
+2026-09,North,Marketing,Cost per lead,21.558,22.0
+2026-09,North,Finance,Gross margin,41.937,39.0
+2026-09,North,Finance,Opex ratio,22.328,23.0
+2026-09,North,Finance,Days sales outstanding,36.842,38.0
+2026-09,North,HR,Headcount,25.613,25.0
+2026-09,North,HR,Attrition,1.335,1.0
+2026-09,North,HR,Employee satisfaction,4.448,4.1
+2026-09,North,Operations,On-time delivery,99.34,95.0
+2026-09,North,Operations,Defect rate,2.131,1.8
+2026-09,North,Operations,Fulfilment time,3.179,3.0
+2026-09,South,Sales,Win rate,27.303,30.0
+2026-09,South,Sales,Avg deal size,15.084,15.0
+2026-09,South,Sales,Sales cycle,45.123,42.0
+2026-09,South,Marketing,Leads generated,172.642,180.0
+2026-09,South,Marketing,Lead conversion,12.091,12.5
+2026-09,South,Marketing,Cost per lead,22.375,22.0
+2026-09,South,Finance,Gross margin,39.662,39.0
+2026-09,South,Finance,Opex ratio,23.975,23.0
+2026-09,South,Finance,Days sales outstanding,45.627,38.0
+2026-09,South,HR,Headcount,25.631,25.0
+2026-09,South,HR,Attrition,1.468,1.0
+2026-09,South,HR,Employee satisfaction,4.025,4.1
+2026-09,South,Operations,On-time delivery,95.573,95.0
+2026-09,South,Operations,Defect rate,2.338,1.8
+2026-09,South,Operations,Fulfilment time,3.16,3.0
+2026-09,East,Sales,Win rate,29.639,30.0
+2026-09,East,Sales,Avg deal size,15.39,15.0
+2026-09,East,Sales,Sales cycle,41.072,42.0
+2026-09,East,Marketing,Leads generated,179.707,180.0
+2026-09,East,Marketing,Lead conversion,12.951,12.5
+2026-09,East,Marketing,Cost per lead,22.164,22.0
+2026-09,East,Finance,Gross margin,42.13,39.0
+2026-09,East,Finance,Opex ratio,21.511,23.0
+2026-09,East,Finance,Days sales outstanding,36.606,38.0
+2026-09,East,HR,Headcount,27.47,25.0
+2026-09,East,HR,Attrition,1.295,1.0
+2026-09,East,HR,Employee satisfaction,4.193,4.1
+2026-09,East,Operations,On-time delivery,99.745,95.0
+2026-09,East,Operations,Defect rate,2.1,1.8
+2026-09,East,Operations,Fulfilment time,3.002,3.0
+2026-09,West,Sales,Win rate,28.979,30.0
+2026-09,West,Sales,Avg deal size,16.48,15.0
+2026-09,West,Sales,Sales cycle,40.262,42.0
+2026-09,West,Marketing,Leads generated,181.949,180.0
+2026-09,West,Marketing,Lead conversion,12.823,12.5
+2026-09,West,Marketing,Cost per lead,21.263,22.0
+2026-09,West,Finance,Gross margin,42.117,39.0
+2026-09,West,Finance,Opex ratio,19.86,23.0
+2026-09,West,Finance,Days sales outstanding,36.633,38.0
+2026-09,West,HR,Headcount,26.556,25.0
+2026-09,West,HR,Attrition,1.271,1.0
+2026-09,West,HR,Employee satisfaction,4.331,4.1
+2026-09,West,Operations,On-time delivery,107.462,95.0
+2026-09,West,Operations,Defect rate,2.163,1.8
+2026-09,West,Operations,Fulfilment time,3.097,3.0
+2026-09,Central,Sales,Win rate,29.473,30.0
+2026-09,Central,Sales,Avg deal size,15.104,15.0
+2026-09,Central,Sales,Sales cycle,43.74,42.0
+2026-09,Central,Marketing,Leads generated,174.54,180.0
+2026-09,Central,Marketing,Lead conversion,12.363,12.5
+2026-09,Central,Marketing,Cost per lead,23.359,22.0
+2026-09,Central,Finance,Gross margin,41.758,39.0
+2026-09,Central,Finance,Opex ratio,22.781,23.0
+2026-09,Central,Finance,Days sales outstanding,40.451,38.0
+2026-09,Central,HR,Headcount,24.881,25.0
+2026-09,Central,HR,Attrition,1.381,1.0
+2026-09,Central,HR,Employee satisfaction,4.009,4.1
+2026-09,Central,Operations,On-time delivery,99.737,95.0
+2026-09,Central,Operations,Defect rate,2.174,1.8
+2026-09,Central,Operations,Fulfilment time,3.352,3.0
+2026-10,North,Sales,Win rate,28.038,30.0
+2026-10,North,Sales,Avg deal size,16.418,15.0
+2026-10,North,Sales,Sales cycle,42.227,42.0
+2026-10,North,Marketing,Leads generated,180.032,180.0
+2026-10,North,Marketing,Lead conversion,12.579,12.5
+2026-10,North,Marketing,Cost per lead,21.028,22.0
+2026-10,North,Finance,Gross margin,40.707,39.0
+2026-10,North,Finance,Opex ratio,21.666,23.0
+2026-10,North,Finance,Days sales outstanding,37.55,38.0
+2026-10,North,HR,Headcount,25.121,25.0
+2026-10,North,HR,Attrition,1.303,1.0
+2026-10,North,HR,Employee satisfaction,4.243,4.1
+2026-10,North,Operations,On-time delivery,102.524,95.0
+2026-10,North,Operations,Defect rate,2.178,1.8
+2026-10,North,Operations,Fulfilment time,3.02,3.0
+2026-10,South,Sales,Win rate,28.826,30.0
+2026-10,South,Sales,Avg deal size,15.748,15.0
+2026-10,South,Sales,Sales cycle,44.962,42.0
+2026-10,South,Marketing,Leads generated,170.113,180.0
+2026-10,South,Marketing,Lead conversion,11.769,12.5
+2026-10,South,Marketing,Cost per lead,22.736,22.0
+2026-10,South,Finance,Gross margin,41.31,39.0
+2026-10,South,Finance,Opex ratio,22.387,23.0
+2026-10,South,Finance,Days sales outstanding,39.8,38.0
+2026-10,South,HR,Headcount,25.651,25.0
+2026-10,South,HR,Attrition,1.469,1.0
+2026-10,South,HR,Employee satisfaction,4.073,4.1
+2026-10,South,Operations,On-time delivery,95.307,95.0
+2026-10,South,Operations,Defect rate,2.282,1.8
+2026-10,South,Operations,Fulfilment time,3.224,3.0
+2026-10,East,Sales,Win rate,29.365,30.0
+2026-10,East,Sales,Avg deal size,15.746,15.0
+2026-10,East,Sales,Sales cycle,43.347,42.0
+2026-10,East,Marketing,Leads generated,187.604,180.0
+2026-10,East,Marketing,Lead conversion,12.616,12.5
+2026-10,East,Marketing,Cost per lead,21.259,22.0
+2026-10,East,Finance,Gross margin,41.942,39.0
+2026-10,East,Finance,Opex ratio,21.905,23.0
+2026-10,East,Finance,Days sales outstanding,35.969,38.0
+2026-10,East,HR,Headcount,27.487,25.0
+2026-10,East,HR,Attrition,1.308,1.0
+2026-10,East,HR,Employee satisfaction,4.057,4.1
+2026-10,East,Operations,On-time delivery,99.347,95.0
+2026-10,East,Operations,Defect rate,2.083,1.8
+2026-10,East,Operations,Fulfilment time,3.261,3.0
+2026-10,West,Sales,Win rate,31.232,30.0
+2026-10,West,Sales,Avg deal size,16.266,15.0
+2026-10,West,Sales,Sales cycle,39.535,42.0
+2026-10,West,Marketing,Leads generated,182.748,180.0
+2026-10,West,Marketing,Lead conversion,12.845,12.5
+2026-10,West,Marketing,Cost per lead,21.037,22.0
+2026-10,West,Finance,Gross margin,42.521,39.0
+2026-10,West,Finance,Opex ratio,21.729,23.0
+2026-10,West,Finance,Days sales outstanding,35.882,38.0
+2026-10,West,HR,Headcount,26.073,25.0
+2026-10,West,HR,Attrition,1.289,1.0
+2026-10,West,HR,Employee satisfaction,4.194,4.1
+2026-10,West,Operations,On-time delivery,101.446,95.0
+2026-10,West,Operations,Defect rate,2.135,1.8
+2026-10,West,Operations,Fulfilment time,3.028,3.0
+2026-10,Central,Sales,Win rate,27.618,30.0
+2026-10,Central,Sales,Avg deal size,15.252,15.0
+2026-10,Central,Sales,Sales cycle,43.144,42.0
+2026-10,Central,Marketing,Leads generated,173.117,180.0
+2026-10,Central,Marketing,Lead conversion,12.398,12.5
+2026-10,Central,Marketing,Cost per lead,22.349,22.0
+2026-10,Central,Finance,Gross margin,38.797,39.0
+2026-10,Central,Finance,Opex ratio,23.61,23.0
+2026-10,Central,Finance,Days sales outstanding,37.828,38.0
+2026-10,Central,HR,Headcount,25.62,25.0
+2026-10,Central,HR,Attrition,1.372,1.0
+2026-10,Central,HR,Employee satisfaction,4.072,4.1
+2026-10,Central,Operations,On-time delivery,98.138,95.0
+2026-10,Central,Operations,Defect rate,2.213,1.8
+2026-10,Central,Operations,Fulfilment time,3.228,3.0
